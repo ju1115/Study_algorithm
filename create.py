@@ -5,10 +5,11 @@ import datetime
 # -----------------------------------------------------
 # 1. 설정 (Settings)
 # -----------------------------------------------------
-FILE_EXTENSION = ".java"
+FILE_EXTENSION_JAVA = ".java"
+FILE_EXTENSION_MD = ".md"
 README_PATH = "README.md"
 
-# [수정됨] Java 중괄호 { }를 {{ }}로 변경하여 충돌 방지
+# [Java 템플릿] 중괄호 충돌 방지를 위해 {{ }} 사용
 JAVA_TEMPLATE = """import java.util.*;
 import java.io.*;
 
@@ -28,6 +29,24 @@ public class Main {{
         bw.close();
     }}
 }}
+"""
+
+# [회고록(Review) 템플릿]
+MD_TEMPLATE = """# 📝 {problem_name} ({site} {problem_num})
+
+### 💡 접근 방식 (Idea)
+- 
+
+### ⚠️ 막혔던 부분 / 중요 포인트
+- 
+
+### 🗝️ 해결 코드 (Key Point)
+```java
+// 핵심 로직만 복사해서 기록해두기
+```
+
+### 📋 참고 자료
+- 
 """
 
 SITE_MAP = {
@@ -51,7 +70,7 @@ def get_problem_url(site_key, problem_num):
 # -----------------------------------------------------
 # 3. README 업데이트 로직
 # -----------------------------------------------------
-def update_readme(date_str, site_key, problem_num, problem_name, tier, algo_type, file_rel_path):
+def update_readme(date_str, site_key, problem_num, problem_name, tier, algo_type, java_rel_path, md_rel_path):
     if not os.path.exists(README_PATH):
         print(f"⚠️ {README_PATH} not found.")
         return
@@ -60,9 +79,12 @@ def update_readme(date_str, site_key, problem_num, problem_name, tier, algo_type
     problem_url = get_problem_url(site_key, problem_num)
     display_name = f"{problem_num}_{problem_name}" if problem_name else problem_num
     
-    file_rel_path = file_rel_path.replace("\\", "/")
+    # 윈도우 경로 치환
+    java_rel_path = java_rel_path.replace("\\", "/")
+    md_rel_path = md_rel_path.replace("\\", "/")
 
-    row = f"| {date_str} | {site_name} | [{display_name}]({problem_url}) | {tier} | {algo_type} | [Java]({file_rel_path}) |\n"
+    # | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
+    row = f"| {date_str} | {site_name} | [{display_name}]({problem_url}) | {tier} | {algo_type} | [Java]({java_rel_path}) | [Review]({md_rel_path}) |\n"
 
     with open(README_PATH, 'a', encoding='utf-8') as f:
         f.write(row)
@@ -73,6 +95,7 @@ def update_readme(date_str, site_key, problem_num, problem_name, tier, algo_type
 # 4. 메인 로직
 # -----------------------------------------------------
 def create_problem_file():
+    # 인자가 부족하면 종료
     if len(sys.argv) < 6:
         print("Usage: python create.py [site] [num] [name] [tier] [type]")
         return
@@ -98,11 +121,11 @@ def create_problem_file():
     if not os.path.exists(target_dir):
         os.makedirs(target_dir)
 
-    file_name = f"{day}_{problem_num}_{problem_name}{FILE_EXTENSION}"
-    file_path = os.path.join(target_dir, file_name)
+    # 1. Java 파일 생성
+    java_file_name = f"{day}_{problem_num}_{problem_name}{FILE_EXTENSION_JAVA}"
+    java_path = os.path.join(target_dir, java_file_name)
 
-    if not os.path.exists(file_path):
-        # 여기서 .format()이 실행될 때 {{ }}는 { }로 변환됩니다.
+    if not os.path.exists(java_path):
         content = JAVA_TEMPLATE.format(
             site=SITE_MAP[site_key],
             problem_num=problem_num,
@@ -110,15 +133,33 @@ def create_problem_file():
             tier=tier,
             algorithm_type=algo_type
         )
-        
-        with open(file_path, 'w', encoding='utf-8') as f:
+        with open(java_path, 'w', encoding='utf-8') as f:
             f.write(content)
-        print(f"✅ Created: {file_path}")
-        
-        rel_path = f"./{SITE_MAP[site_key]}/{year_month}/{file_name}"
-        update_readme(date_display, site_key, problem_num, problem_name, tier, algo_type, rel_path)
+        print(f"✅ Java Created: {java_path}")
     else:
-        print(f"⚠️ File exists: {file_path}")
+        print(f"⚠️ Java exists: {java_path}")
+
+    # 2. Markdown(회고) 파일 생성
+    md_file_name = f"{day}_{problem_num}_{problem_name}{FILE_EXTENSION_MD}"
+    md_path = os.path.join(target_dir, md_file_name)
+
+    if not os.path.exists(md_path):
+        md_content = MD_TEMPLATE.format(
+            site=SITE_MAP[site_key],
+            problem_num=problem_num,
+            problem_name=problem_name
+        )
+        with open(md_path, 'w', encoding='utf-8') as f:
+            f.write(md_content)
+        print(f"✅ Review Created: {md_path}")
+    else:
+        print(f"⚠️ Review exists: {md_path}")
+
+    # 3. README 업데이트
+    java_rel_path = f"./{SITE_MAP[site_key]}/{year_month}/{java_file_name}"
+    md_rel_path = f"./{SITE_MAP[site_key]}/{year_month}/{md_file_name}"
+    
+    update_readme(date_display, site_key, problem_num, problem_name, tier, algo_type, java_rel_path, md_rel_path)
 
 if __name__ == "__main__":
     create_problem_file()
