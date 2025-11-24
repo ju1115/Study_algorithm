@@ -1,5 +1,11 @@
+import java.util.*;
 import java.io.*;
 
+/**
+ * 문제: BOJ 14626 ISBN
+ * 난이도: BRONZE1
+ * 유형: 브루트포스
+ */
 class Main {
     static BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
     static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
