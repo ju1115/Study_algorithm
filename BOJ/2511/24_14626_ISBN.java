@@ -1,3 +1,4 @@
+import java.util.*;
 import java.io.*;
 
 /**
@@ -6,11 +7,13 @@ import java.io.*;
  * 유형: 브루트포스
  */
 class Main {
-    static BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
-    static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+    public static void main(String[] args) throws IOException {
+        // System.setIn(new FileInputStream("src/BOJ/2511/24_14626_ISBN.txt"));
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
-    public static void main(String args[]) throws IOException {
-        String input = bf.readLine();
+        // Code here
+        String input = br.readLine();
         char[] cArr = input.toCharArray();
         int ans = 0;
         int num = 0;

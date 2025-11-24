@@ -7,9 +7,13 @@ import datetime
 # -----------------------------------------------------
 FILE_EXTENSION_JAVA = ".java"
 FILE_EXTENSION_MD = ".md"
+FILE_EXTENSION_TXT = ".txt"
 README_PATH = "README.md"
 
-# [Java 템플릿] 중괄호 충돌 방지를 위해 {{ }} 사용
+# [Java 템플릿] 
+# {{ }}는 Java의 중괄호를 표현하기 위한 이스케이프 문자입니다.
+# System.setIn 부분은 자동 생성된 txt 파일을 읽도록 설정되어 있습니다.
+# ★수정됨★: public class Main -> class Main (파일명 자동변경 방지)
 JAVA_TEMPLATE = """import java.util.*;
 import java.io.*;
 
@@ -18,8 +22,9 @@ import java.io.*;
  * 난이도: {tier}
  * 유형: {algorithm_type}
  */
-public class Main {{
+class Main {{
     public static void main(String[] args) throws IOException {{
+        // System.setIn(new FileInputStream("src/{site}/{year_month}/{day}_{problem_num}_{problem_name}.txt"));
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         
@@ -79,11 +84,11 @@ def update_readme(date_str, site_key, problem_num, problem_name, tier, algo_type
     problem_url = get_problem_url(site_key, problem_num)
     display_name = f"{problem_num}_{problem_name}" if problem_name else problem_num
     
-    # 윈도우 경로 치환
+    # 윈도우 경로 치환 (\ -> /)
     java_rel_path = java_rel_path.replace("\\", "/")
     md_rel_path = md_rel_path.replace("\\", "/")
 
-    # | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
+    # 표 행 추가: | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
     row = f"| {date_str} | {site_name} | [{display_name}]({problem_url}) | {tier} | {algo_type} | [Java]({java_rel_path}) | [Review]({md_rel_path}) |\n"
 
     with open(README_PATH, 'a', encoding='utf-8') as f:
@@ -95,7 +100,7 @@ def update_readme(date_str, site_key, problem_num, problem_name, tier, algo_type
 # 4. 메인 로직
 # -----------------------------------------------------
 def create_problem_file():
-    # 인자가 부족하면 종료
+    # 인자 확인
     if len(sys.argv) < 6:
         print("Usage: python create.py [site] [num] [name] [tier] [type]")
         return
@@ -112,22 +117,27 @@ def create_problem_file():
 
     root_folder = SITE_MAP[site_key]
     
+    # 날짜 계산
     now = datetime.datetime.now()
     year_month = now.strftime("%y%m")
     day = now.strftime("%d")
     date_display = now.strftime("%y.%m.%d")
 
+    # 월별 폴더 생성
     target_dir = os.path.join(root_folder, year_month)
     if not os.path.exists(target_dir):
         os.makedirs(target_dir)
 
-    # 1. Java 파일 생성
-    java_file_name = f"{day}_{problem_num}_{problem_name}{FILE_EXTENSION_JAVA}"
-    java_path = os.path.join(target_dir, java_file_name)
+    # 기본 파일명
+    base_filename = f"{day}_{problem_num}_{problem_name}"
 
+    # 1. Java 파일 생성
+    java_path = os.path.join(target_dir, base_filename + FILE_EXTENSION_JAVA)
     if not os.path.exists(java_path):
         content = JAVA_TEMPLATE.format(
             site=SITE_MAP[site_key],
+            year_month=year_month,
+            day=day,
             problem_num=problem_num,
             problem_name=problem_name,
             tier=tier,
@@ -140,9 +150,7 @@ def create_problem_file():
         print(f"⚠️ Java exists: {java_path}")
 
     # 2. Markdown(회고) 파일 생성
-    md_file_name = f"{day}_{problem_num}_{problem_name}{FILE_EXTENSION_MD}"
-    md_path = os.path.join(target_dir, md_file_name)
-
+    md_path = os.path.join(target_dir, base_filename + FILE_EXTENSION_MD)
     if not os.path.exists(md_path):
         md_content = MD_TEMPLATE.format(
             site=SITE_MAP[site_key],
@@ -155,9 +163,18 @@ def create_problem_file():
     else:
         print(f"⚠️ Review exists: {md_path}")
 
-    # 3. README 업데이트
-    java_rel_path = f"./{SITE_MAP[site_key]}/{year_month}/{java_file_name}"
-    md_rel_path = f"./{SITE_MAP[site_key]}/{year_month}/{md_file_name}"
+    # 3. Input TXT 파일 생성
+    txt_path = os.path.join(target_dir, base_filename + FILE_EXTENSION_TXT)
+    if not os.path.exists(txt_path):
+        with open(txt_path, 'w', encoding='utf-8') as f:
+            f.write("") # 빈 파일
+        print(f"✅ Input TXT Created: {txt_path}")
+    else:
+        print(f"⚠️ TXT exists: {txt_path}")
+
+    # 4. README 업데이트
+    java_rel_path = f"./{SITE_MAP[site_key]}/{year_month}/{base_filename}{FILE_EXTENSION_JAVA}"
+    md_rel_path = f"./{SITE_MAP[site_key]}/{year_month}/{base_filename}{FILE_EXTENSION_MD}"
     
     update_readme(date_display, site_key, problem_num, problem_name, tier, algo_type, java_rel_path, md_rel_path)
 
