@@ -23,13 +23,18 @@ import java.io.*;
  * 유형: {algorithm_type}
  */
 class Main {{
+    static BufferedReader br;
+    static BufferedWriter bw;
+    static StringTokenizer st;
+    static StringBuilder sb = new StringBuilder();
+
     public static void main(String[] args) throws IOException {{
-        // System.setIn(new FileInputStream("src/{site}/{year_month}/{day}_{problem_num}_{problem_name}.txt"));
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-        
+        // System.setIn(new FileInputStream("{site}/{year_month}/{day}_{problem_num}_{problem_name}.txt"));
+        br = new BufferedReader(new InputStreamReader(System.in));
+        bw = new BufferedWriter(new OutputStreamWriter(System.out));
         // Code here
         
+        bw.write(sb.toString());
         bw.flush();
         bw.close();
     }}

@@ -6,9 +6,9 @@ import java.io.*;
  * 난이도: BRONZE1
  * 유형: 브루트포스
  */
-class Main {
+class Main_14626 {
     public static void main(String[] args) throws IOException {
-        // System.setIn(new FileInputStream("src/BOJ/2511/24_14626_ISBN.txt"));
+        // System.setIn(new FileInputStream("BOJ/2511/24_14626_ISBN.txt"));
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 

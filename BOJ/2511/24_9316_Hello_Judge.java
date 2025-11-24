@@ -6,9 +6,9 @@ import java.io.*;
  * 난이도: BRONZE5
  * 유형: 구현
  */
-class Main {
+class Main_9316 {
     public static void main(String[] args) throws IOException {
-        // System.setIn(new FileInputStream("src/BOJ/2511/24_9316_Hello_Judge.txt"));
+        // System.setIn(new FileInputStream("BOJ/2511/24_9316_Hello_Judge.txt"));
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         StringBuilder sb = new StringBuilder();
