@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 import java.math.BigInteger;
 
-class Main {
+class Main_27434 {
     public static void main(String[] args) throws IOException {
         // 입력 속도를 위해 BufferedReader 사용
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

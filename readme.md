@@ -45,3 +45,7 @@
 | 25.11.24 |  BOJ   | [9316_Hello_Judge](https://www.acmicpc.net/problem/9316)  | BRONZE5 |    구현    | [Java](./BOJ/2511/24_9316_Hello_Judge.java) | [Review](./BOJ/2511/24_9316_Hello_Judge.md) |
 | 25.11.24 |  BOJ   | [14626_ISBN](https://www.acmicpc.net/problem/14626)       | BRONZE1 | 브루트포스 |    [Java](./BOJ/2511/24_14626_ISBN.java)    |    [Review](./BOJ/2511/24_14626_ISBN.md)    |
 | 25.11.24 |  BOJ   | [27434\_팩토리얼3](https://www.acmicpc.net/problem/27434) | BRONZE5 |  큰수연산  | [Java](./BOJ/2511/24_27434_팩토리얼3.java)  | [Review](./BOJ/2511/24_27434_팩토리얼3.md)  |
+| 25.11.25 | BOJ | [25628_햄버거_만들기](https://www.acmicpc.net/problem/25628) | BRONZE4 | 수학 | [Java](./BOJ/2511/25_25628_햄버거_만들기.java) | [Review](./BOJ/2511/25_25628_햄버거_만들기.md) |
+| 25.11.25 | BOJ | [2875_대회_or_인턴](https://www.acmicpc.net/problem/2875) | BRONZE3 | 수학 | [Java](./BOJ/2511/25_2875_대회_or_인턴.java) | [Review](./BOJ/2511/25_2875_대회_or_인턴.md) |
+| 25.11.25 | BOJ | [10864_친구](https://www.acmicpc.net/problem/10864) | BRONZE2 | 구현 | [Java](./BOJ/2511/25_10864_친구.java) | [Review](./BOJ/2511/25_10864_친구.md) |
+| 25.11.25 | BOJ | [3181_줄임말_만들기](https://www.acmicpc.net/problem/3181) | BRONZE2 | 문자열 | [Java](./BOJ/2511/25_3181_줄임말_만들기.java) | [Review](./BOJ/2511/25_3181_줄임말_만들기.md) |
