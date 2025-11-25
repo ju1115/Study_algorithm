@@ -6,7 +6,7 @@ import java.io.*;
  * 난이도: SILVER5
  * 유형: 문자열
  */
-class Main {
+class Main_25757 {
     enum Type {
         Y(1), F(2), O(3);
 

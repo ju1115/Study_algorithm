@@ -51,3 +51,4 @@
 | 25.11.25 | BOJ | [3181_줄임말_만들기](https://www.acmicpc.net/problem/3181) | BRONZE2 | 문자열 | [Java](./BOJ/2511/25_3181_줄임말_만들기.java) | [Review](./BOJ/2511/25_3181_줄임말_만들기.md) |
 | 25.11.25 | BOJ | [2520_팬케이크_사랑](https://www.acmicpc.net/problem/2520) | BRONZE2 | 수학 | [Java](./BOJ/2511/25_2520_팬케이크_사랑.java) | [Review](./BOJ/2511/25_2520_팬케이크_사랑.md) |
 | 25.11.25 | BOJ | [25757_임스와_함께하는_미니게임](https://www.acmicpc.net/problem/25757) | SILVER5 | 문자열 | [Java](./BOJ/2511/25_25757_임스와_함께하는_미니게임.java) | [Review](./BOJ/2511/25_25757_임스와_함께하는_미니게임.md) |
+| 25.11.25 | BOJ | [1967_트리의_지름](https://www.acmicpc.net/problem/1967) | GOLD4 | 그래프,트리 | [Java](./BOJ/2511/25_1967_트리의_지름.java) | [Review](./BOJ/2511/25_1967_트리의_지름.md) |
