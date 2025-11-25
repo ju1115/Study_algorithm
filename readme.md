@@ -49,3 +49,4 @@
 | 25.11.25 | BOJ | [2875_대회_or_인턴](https://www.acmicpc.net/problem/2875) | BRONZE3 | 수학 | [Java](./BOJ/2511/25_2875_대회_or_인턴.java) | [Review](./BOJ/2511/25_2875_대회_or_인턴.md) |
 | 25.11.25 | BOJ | [10864_친구](https://www.acmicpc.net/problem/10864) | BRONZE2 | 구현 | [Java](./BOJ/2511/25_10864_친구.java) | [Review](./BOJ/2511/25_10864_친구.md) |
 | 25.11.25 | BOJ | [3181_줄임말_만들기](https://www.acmicpc.net/problem/3181) | BRONZE2 | 문자열 | [Java](./BOJ/2511/25_3181_줄임말_만들기.java) | [Review](./BOJ/2511/25_3181_줄임말_만들기.md) |
+| 25.11.25 | BOJ | [2520_팬케이크_사랑](https://www.acmicpc.net/problem/2520) | BRONZE2 | 수학 | [Java](./BOJ/2511/25_2520_팬케이크_사랑.java) | [Review](./BOJ/2511/25_2520_팬케이크_사랑.md) |

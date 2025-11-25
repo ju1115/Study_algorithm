@@ -6,7 +6,7 @@ import java.io.*;
  * 난이도: BRONZE2
  * 유형: 문자열
  */
-class Main {
+class Main_3181 {
     static BufferedReader br;
     static BufferedWriter bw;
     static StringTokenizer st;
