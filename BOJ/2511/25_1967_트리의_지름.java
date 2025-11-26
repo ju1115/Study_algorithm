@@ -8,14 +8,12 @@ import java.io.*;
  */
 class Main {
     static class Node {
-        Node parent;
+        int to;
         int v;
-        int id;
 
-        Node(Node parent, int v, int id) {
-            this.parent = parent;
+        Node(int to, int v) {
+            this.to = to;
             this.v = v;
-            this.id = id;
         }
     }
 
@@ -23,78 +21,65 @@ class Main {
     static BufferedWriter bw;
     static StringTokenizer st;
     static StringBuilder sb = new StringBuilder();
-    static HashSet<Integer> isLeaf = new HashSet<>(10000);
+
+    static int N;
+    static ArrayList<Node>[] adj;
+    static boolean[] visited;
+    static int maxV;
+    static int endP;
 
     public static void main(String[] args) throws IOException {
         // System.setIn(new FileInputStream("BOJ/2511/25_1967_트리의_지름.txt"));
         br = new BufferedReader(new InputStreamReader(System.in));
         bw = new BufferedWriter(new OutputStreamWriter(System.out));
         // Code here
-        HashMap<Integer, Node> nodes = new HashMap<>();
+        N = Integer.parseInt(br.readLine());
+        adj = new ArrayList[N + 1];
 
-        nodes.put(1, new Node(null, 0, 1));
-        isLeaf.add(1);
-        int N = Integer.parseInt(br.readLine());
-        // N-1 개 raw
-        for (int i = 1; i < N; i++) {
+        if (N == 1) {
+            sb.append(0);
+            bw.write(sb.toString());
+            bw.close();
+            return;
+        }
+        for (int i = 1; i < N + 1; i++) {
+            adj[i] = new ArrayList<>();
+        }
+        for (int i = 0; i < N - 1; i++) {
             st = new StringTokenizer(br.readLine());
             int parent = Integer.parseInt(st.nextToken());
             int child = Integer.parseInt(st.nextToken());
             int v = Integer.parseInt(st.nextToken());
-            Node parentNode = nodes.get(parent);
-            nodes.put(child, new Node(parentNode, parentNode.v + v, child));
-            isLeaf.remove(parent);
-            isLeaf.add(child);
+            adj[parent].add(new Node(child, v));
+            adj[child].add(new Node(parent, v));
         }
-        List<Integer> leafList = new ArrayList<>(isLeaf);
-        isLeaf.add(1);
-        isLeaf.clear();
-        Node first = nodes.get(leafList.get(0));
-        int ans = 0;
-        int ansi = 0;
-        for (int i = 1; i < leafList.size(); i++) {
-            int between = calculate(first, nodes.get(leafList.get(i)));
-            if (ans < between) {
-                ans = between;
-                ansi = i;
-            }
-        }
-        ans = 0;
-        first = nodes.get(leafList.get(ansi));
-        for (int i = 0; i < leafList.size(); i++) {
-            if (i == ansi)
-                continue;
-            int between = calculate(first, nodes.get(leafList.get(i)));
-            if (ans < between) {
-                ans = between;
-            }
-        }
-        sb.append(ans);
+        maxV = 0;
+        endP = 0;
+        visited = new boolean[N + 1];
+        dfs(1, 0);
+
+        visited = new boolean[N + 1];
+        dfs(endP, 0);
+
+        sb.append(maxV);
         bw.write(sb.toString());
         bw.flush();
         bw.close();
     }
 
-    static int calculate(Node i, Node j) {
-        int originalIv = i.v;
-        int originalJv = j.v;
+    static void dfs(int now, int curV) {
+        visited[now] = true;
 
-        Node tempI = i;
-        while (tempI != null) {
-            isLeaf.add(tempI.id);
-            tempI = tempI.parent;
+        if (maxV < curV) {
+            maxV = curV;
+            endP = now;
         }
 
-        Node lca = j;
-        while (lca != null) {
-            if (isLeaf.contains(lca.id)) {
-                break;
-            }
-            lca = lca.parent;
+        for (int i = 0; i < adj[now].size(); i++) {
+            Node next = adj[now].get(i);
+            if (visited[next.to])
+                continue;
+            dfs(next.to, curV + next.v);
         }
-
-        isLeaf.clear();
-
-        return originalIv + originalJv - 2 * lca.v;
     }
 }
