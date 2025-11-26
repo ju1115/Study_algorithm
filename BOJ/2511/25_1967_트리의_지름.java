@@ -6,7 +6,7 @@ import java.io.*;
  * 난이도: GOLD4
  * 유형: 그래프,트리
  */
-class Main {
+class Main_1967 {
     static class Node {
         int to;
         int v;

@@ -52,3 +52,5 @@
 | 25.11.25 | BOJ | [2520_팬케이크_사랑](https://www.acmicpc.net/problem/2520) | BRONZE2 | 수학 | [Java](./BOJ/2511/25_2520_팬케이크_사랑.java) | [Review](./BOJ/2511/25_2520_팬케이크_사랑.md) |
 | 25.11.25 | BOJ | [25757_임스와_함께하는_미니게임](https://www.acmicpc.net/problem/25757) | SILVER5 | 문자열 | [Java](./BOJ/2511/25_25757_임스와_함께하는_미니게임.java) | [Review](./BOJ/2511/25_25757_임스와_함께하는_미니게임.md) |
 | 25.11.25 | BOJ | [1967_트리의_지름](https://www.acmicpc.net/problem/1967) | GOLD4 | 그래프,트리 | [Java](./BOJ/2511/25_1967_트리의_지름.java) | [Review](./BOJ/2511/25_1967_트리의_지름.md) |
+| 25.11.26 | BOJ | [11942_고려대는_사랑입니다](https://www.acmicpc.net/problem/11942) | BRONZE5 | 구현 | [Java](./BOJ/2511/26_11942_고려대는_사랑입니다.java) | [Review](./BOJ/2511/26_11942_고려대는_사랑입니다.md) |
+| 25.11.26 | BOJ | [9698_SAHUR_IMSA](https://www.acmicpc.net/problem/9698) | BRONZE3 | 수학 | [Java](./BOJ/2511/26_9698_SAHUR_IMSA.java) | [Review](./BOJ/2511/26_9698_SAHUR_IMSA.md) |
