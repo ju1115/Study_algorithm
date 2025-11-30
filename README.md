@@ -57,3 +57,4 @@
 | 25.11.27 | BOJ | [2747_피보나치_수](https://www.acmicpc.net/problem/2747) | BRONZE2 | 구현 | [Java](./BOJ/2511/27_2747_피보나치_수.java) | [Review](./BOJ/2511/27_2747_피보나치_수.md) |
 | 25.11.28 | BOJ | [32141_카드_게임](https://www.acmicpc.net/problem/32141) | BRONZE2 | 그리디 | [Java](./BOJ/2511/28_32141_카드_게임.java) | [Review](./BOJ/2511/28_32141_카드_게임.md) |
 | 25.11.29 | BOJ | [17224_APC는_왜_서브태스크_대회가_되었을까?](https://www.acmicpc.net/problem/17224) | BRONZE1 | 그리디 | [Java](./BOJ/2511/29_17224_APC는_왜_서브태스크_대회가_되었을까?.java) | [Review](./BOJ/2511/29_17224_APC는_왜_서브태스크_대회가_되었을까?.md) |
+| 25.11.30 | BOJ | [1524_세준세비](https://www.acmicpc.net/problem/1524) | BRONZE1 | 구현 | [Java](./BOJ/2511/30_1524_세준세비.java) | [Review](./BOJ/2511/30_1524_세준세비.md) |
