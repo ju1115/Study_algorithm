@@ -1,5 +1,4 @@
 import java.util.*;
-import java.util.concurrent.ArrayBlockingQueue;
 import java.io.*;
 
 /**
@@ -7,7 +6,7 @@ import java.io.*;
  * 난이도: GOLD3
  * 유형: 그래프
  */
-class Main {
+class Main_1238 {
     static BufferedReader br;
     static BufferedWriter bw;
     static StringTokenizer st;
@@ -37,7 +36,7 @@ class Main {
         X = Integer.parseInt(st.nextToken());
         int ans = 0;
         edges = new ArrayList[N + 1];
-        for (int i = 0; i < N; i++) {
+        for (int i = 0; i < N + 1; i++) {
             edges[i] = new ArrayList<>();
         }
         for (int i = 0; i < M; i++) {
@@ -50,7 +49,7 @@ class Main {
         for (int i = 1; i < N + 1; i++) {
             ans = Math.max(ans, dijk(i, X) + dijk(X, i));
         }
-
+        sb.append(ans);
         bw.write(sb.toString());
         bw.flush();
         bw.close();
@@ -72,7 +71,7 @@ class Main {
         while (!pq.isEmpty()) {
             Edge now = pq.poll();
             for (Edge e : edges[now.to]) {
-                int nextDist = now.v + e.to;
+                int nextDist = now.v + e.v;
                 if (dist[e.to] > nextDist) {
                     dist[e.to] = nextDist;
                     pq.add(new Edge(e.to, nextDist));
