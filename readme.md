@@ -56,3 +56,4 @@
 | 25.11.26 | BOJ | [9698_SAHUR_IMSA](https://www.acmicpc.net/problem/9698) | BRONZE3 | 수학 | [Java](./BOJ/2511/26_9698_SAHUR_IMSA.java) | [Review](./BOJ/2511/26_9698_SAHUR_IMSA.md) |
 | 25.11.27 | BOJ | [2747_피보나치_수](https://www.acmicpc.net/problem/2747) | BRONZE2 | 구현 | [Java](./BOJ/2511/27_2747_피보나치_수.java) | [Review](./BOJ/2511/27_2747_피보나치_수.md) |
 | 25.11.28 | BOJ | [32141_카드_게임](https://www.acmicpc.net/problem/32141) | BRONZE2 | 그리디 | [Java](./BOJ/2511/28_32141_카드_게임.java) | [Review](./BOJ/2511/28_32141_카드_게임.md) |
+| 25.12.01 | BOJ | [20362_유니대전_퀴즈쇼](https://www.acmicpc.net/problem/20362) | BRONZE1 | 문자열 | [Java](./BOJ/2512/01_20362_유니대전_퀴즈쇼.java) | [Review](./BOJ/2512/01_20362_유니대전_퀴즈쇼.md) |
