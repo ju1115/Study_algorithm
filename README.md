@@ -45,6 +45,7 @@
 | 25.12.01 | BOJ | [20362_유니대전_퀴즈쇼](https://www.acmicpc.net/problem/20362) | BRONZE1 | 문자열 | [Java](./BOJ/2512/01_20362_유니대전_퀴즈쇼.java) | [Review](./BOJ/2512/01_20362_유니대전_퀴즈쇼.md) |
 | 25.12.01 | BOJ | [1167_트리의_지름](https://www.acmicpc.net/problem/1167) | GOLD2 | 그래프 | [Java](./BOJ/2512/01_1167_트리의_지름.java) | [Review](./BOJ/2512/01_1167_트리의_지름.md) |
 | 25.12.01 | BOJ | [9237_이장님_초대](https://www.acmicpc.net/problem/9237) | SILVER5 | 그리디 | [Java](./BOJ/2512/01_9237_이장님_초대.java) | [Review](./BOJ/2512/01_9237_이장님_초대.md) |
+| 25.12.01 | BOJ | [1238_파티](https://www.acmicpc.net/problem/1238) | GOLD3 | 그래프 | [Java](./BOJ/2512/01_1238_파티.java) | [Review](./BOJ/2512/01_1238_파티.md) |
 | 25.11.30 | BOJ | [1524_세준세비](https://www.acmicpc.net/problem/1524) | BRONZE1 | 구현 | [Java](./BOJ/2511/30_1524_세준세비.java) | [Review](./BOJ/2511/30_1524_세준세비.md) |
 | 25.11.29 | BOJ | [17224_APC는_왜_서브태스크_대회가_되었을까](https://www.acmicpc.net/problem/17224) | BRONZE1 | 그리디 | [Java](./BOJ/2511/29_17224_APC는_왜_서브태스크_대회가_되었을까.java) | [Review](./BOJ/2511/29_17224_APC는_왜_서브태스크_대회가_되었을까.md) |
 | 25.11.28 | BOJ | [32141_카드_게임](https://www.acmicpc.net/problem/32141) | BRONZE2 | 그리디 | [Java](./BOJ/2511/28_32141_카드_게임.java) | [Review](./BOJ/2511/28_32141_카드_게임.md) |
