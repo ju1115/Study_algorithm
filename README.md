@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 25.12.02 | BOJ | [1865_웜홀](https://www.acmicpc.net/problem/1865) | GOLD3 | 그래프 | [Java](./BOJ/2512/02_1865_웜홀.java) | [Review](./BOJ/2512/02_1865_웜홀.md) |
 | 25.12.01 | BOJ | [20362_유니대전_퀴즈쇼](https://www.acmicpc.net/problem/20362) | BRONZE1 | 문자열 | [Java](./BOJ/2512/01_20362_유니대전_퀴즈쇼.java) | [Review](./BOJ/2512/01_20362_유니대전_퀴즈쇼.md) |
 | 25.12.01 | BOJ | [1167_트리의_지름](https://www.acmicpc.net/problem/1167) | GOLD2 | 그래프 | [Java](./BOJ/2512/01_1167_트리의_지름.java) | [Review](./BOJ/2512/01_1167_트리의_지름.md) |
 | 25.12.01 | BOJ | [9237_이장님_초대](https://www.acmicpc.net/problem/9237) | SILVER5 | 그리디 | [Java](./BOJ/2512/01_9237_이장님_초대.java) | [Review](./BOJ/2512/01_9237_이장님_초대.md) |
