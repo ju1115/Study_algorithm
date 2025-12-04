@@ -2,6 +2,11 @@ import java.util.*;
 import java.io.*;
 import java.math.BigInteger;
 
+/**
+ * 문제: BOJ 27434 팩토리얼3
+ * 난이도: BRONZE5
+ * 유형: 큰수 연산
+ */
 class Main_27434 {
     public static void main(String[] args) throws IOException {
         // 입력 속도를 위해 BufferedReader 사용

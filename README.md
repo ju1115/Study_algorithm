@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 25.12.04 | BOJ | [25642_젓가락_게임](https://www.acmicpc.net/problem/25642) | BRONZE2 | 구현 | [Java](./BOJ/2512/04_25642_젓가락_게임.java) | [Review](./BOJ/2512/04_25642_젓가락_게임.md) |
 | 25.12.03 | BOJ | [12840_창용이의_시계](https://www.acmicpc.net/problem/12840) | BRONZE3 | 구현 | [Java](./BOJ/2512/03_12840_창용이의_시계.java) | [Review](./BOJ/2512/03_12840_창용이의_시계.md) |
 | 25.12.02 | BOJ | [1865_웜홀](https://www.acmicpc.net/problem/1865) | GOLD3 | 그래프 | [Java](./BOJ/2512/02_1865_웜홀.java) | [Review](./BOJ/2512/02_1865_웜홀.md) |
 | 25.12.01 | BOJ | [1238_파티](https://www.acmicpc.net/problem/1238) | GOLD3 | 그래프 | [Java](./BOJ/2512/01_1238_파티.java) | [Review](./BOJ/2512/01_1238_파티.md) |
@@ -62,5 +63,5 @@
 | 25.11.25 | BOJ | [25757_임스와_함께하는_미니게임](https://www.acmicpc.net/problem/25757) | SILVER5 | 문자열 | [Java](./BOJ/2511/25_25757_임스와_함께하는_미니게임.java) | [Review](./BOJ/2511/25_25757_임스와_함께하는_미니게임.md) |
 | 25.11.25 | BOJ | [2875_대회_or_인턴](https://www.acmicpc.net/problem/2875) | BRONZE3 | 수학 | [Java](./BOJ/2511/25_2875_대회_or_인턴.java) | [Review](./BOJ/2511/25_2875_대회_or_인턴.md) |
 | 25.11.24 | BOJ | [9316_Hello_Judge](https://www.acmicpc.net/problem/9316) | BRONZE5 | 구현 | [Java](./BOJ/2511/24_9316_Hello_Judge.java) | [Review](./BOJ/2511/24_9316_Hello_Judge.md) |
-| 25.11.24 | BOJ | [27434_팩토리얼3](https://www.acmicpc.net/problem/27434) | Unknown | Unknown | [Java](./BOJ/2511/24_27434_팩토리얼3.java) | [Review](./BOJ/2511/24_27434_팩토리얼3.md) |
+| 25.11.24 | BOJ | [27434_팩토리얼3](https://www.acmicpc.net/problem/27434) | BRONZE5 | 큰수 연산 | [Java](./BOJ/2511/24_27434_팩토리얼3.java) | [Review](./BOJ/2511/24_27434_팩토리얼3.md) |
 | 25.11.24 | BOJ | [14626_ISBN](https://www.acmicpc.net/problem/14626) | BRONZE1 | 브루트포스 | [Java](./BOJ/2511/24_14626_ISBN.java) | [Review](./BOJ/2511/24_14626_ISBN.md) |
