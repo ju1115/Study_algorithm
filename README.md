@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 25.12.05 | BOJ | [23103_Academic_Distance](https://www.acmicpc.net/problem/23103) | BRONZE3 | 구현 | [Java](./BOJ/2512/05_23103_Academic_Distance.java) | [Review](./BOJ/2512/05_23103_Academic_Distance.md) |
 | 25.12.04 | BOJ | [25642_젓가락_게임](https://www.acmicpc.net/problem/25642) | BRONZE2 | 구현 | [Java](./BOJ/2512/04_25642_젓가락_게임.java) | [Review](./BOJ/2512/04_25642_젓가락_게임.md) |
 | 25.12.03 | BOJ | [12840_창용이의_시계](https://www.acmicpc.net/problem/12840) | BRONZE3 | 구현 | [Java](./BOJ/2512/03_12840_창용이의_시계.java) | [Review](./BOJ/2512/03_12840_창용이의_시계.md) |
 | 25.12.02 | BOJ | [1865_웜홀](https://www.acmicpc.net/problem/1865) | GOLD3 | 그래프 | [Java](./BOJ/2512/02_1865_웜홀.java) | [Review](./BOJ/2512/02_1865_웜홀.md) |
