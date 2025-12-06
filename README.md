@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 25.12.06 | BOJ | [26595_전투의_신](https://www.acmicpc.net/problem/26595) | SILVER5 | 브루트포스 | [Java](./BOJ/2512/06_26595_전투의_신.java) | [Review](./BOJ/2512/06_26595_전투의_신.md) |
 | 25.12.06 | BOJ | [11149_Decode_the_Message](https://www.acmicpc.net/problem/11149) | BRONZE2 | 구현 | [Java](./BOJ/2512/06_11149_Decode_the_Message.java) | [Review](./BOJ/2512/06_11149_Decode_the_Message.md) |
 | 25.12.06 | BOJ | [6003_Claustrophobic_Cows](https://www.acmicpc.net/problem/6003) | BRONZE1 | 브루트포스 | [Java](./BOJ/2512/06_6003_Claustrophobic_Cows.java) | [Review](./BOJ/2512/06_6003_Claustrophobic_Cows.md) |
 | 25.12.05 | BOJ | [23103_Academic_Distance](https://www.acmicpc.net/problem/23103) | BRONZE3 | 구현 | [Java](./BOJ/2512/05_23103_Academic_Distance.java) | [Review](./BOJ/2512/05_23103_Academic_Distance.md) |
