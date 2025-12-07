@@ -6,7 +6,7 @@ import java.io.*;
  * 난이도: SILVER5
  * 유형: 브루트포스
  */
-class Main {
+class Main_26595 {
     static BufferedReader br;
     static BufferedWriter bw;
     static StringTokenizer st;

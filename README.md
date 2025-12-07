@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 25.12.07 | BOJ | [27295_선형_회귀는_너무_쉬워_1](https://www.acmicpc.net/problem/27295) | SILVER5 | 수학 | [Java](./BOJ/2512/07_27295_선형_회귀는_너무_쉬워_1.java) | [Review](./BOJ/2512/07_27295_선형_회귀는_너무_쉬워_1.md) |
 | 25.12.06 | BOJ | [26595_전투의_신](https://www.acmicpc.net/problem/26595) | SILVER5 | 브루트포스 | [Java](./BOJ/2512/06_26595_전투의_신.java) | [Review](./BOJ/2512/06_26595_전투의_신.md) |
 | 25.12.06 | BOJ | [11149_Decode_the_Message](https://www.acmicpc.net/problem/11149) | BRONZE2 | 구현 | [Java](./BOJ/2512/06_11149_Decode_the_Message.java) | [Review](./BOJ/2512/06_11149_Decode_the_Message.md) |
 | 25.12.06 | BOJ | [6003_Claustrophobic_Cows](https://www.acmicpc.net/problem/6003) | BRONZE1 | 브루트포스 | [Java](./BOJ/2512/06_6003_Claustrophobic_Cows.java) | [Review](./BOJ/2512/06_6003_Claustrophobic_Cows.md) |
