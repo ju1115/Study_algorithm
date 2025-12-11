@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 25.12.11 | BOJ | [3447_버그왕](https://www.acmicpc.net/problem/3447) | BRONZE1 | 문자열 | [Java](./BOJ/2512/11_3447_버그왕.java) | [Review](./BOJ/2512/11_3447_버그왕.md) |
 | 25.12.10 | BOJ | [9325_얼마](https://www.acmicpc.net/problem/9325) | BRONZE3 | 수학 | [Java](./BOJ/2512/10_9325_얼마.java) | [Review](./BOJ/2512/10_9325_얼마.md) |
 | 25.12.10 | BOJ | [25905_장인은_도구를_탓하지_않는다](https://www.acmicpc.net/problem/25905) | BRONZE2 | 구현 | [Java](./BOJ/2512/10_25905_장인은_도구를_탓하지_않는다.java) | [Review](./BOJ/2512/10_25905_장인은_도구를_탓하지_않는다.md) |
 | 25.12.10 | BOJ | [28214_크림빵](https://www.acmicpc.net/problem/28214) | BRONZE3 | 구현 | [Java](./BOJ/2512/10_28214_크림빵.java) | [Review](./BOJ/2512/10_28214_크림빵.md) |
