@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 25.12.12 | BOJ | [14646_욱제는_결정장애야](https://www.acmicpc.net/problem/14646) | SILVER5 | 구현 | [Java](./BOJ/2512/12_14646_욱제는_결정장애야.java) | [Review](./BOJ/2512/12_14646_욱제는_결정장애야.md) |
 | 25.12.11 | BOJ | [3447_버그왕](https://www.acmicpc.net/problem/3447) | BRONZE1 | 문자열 | [Java](./BOJ/2512/11_3447_버그왕.java) | [Review](./BOJ/2512/11_3447_버그왕.md) |
 | 25.12.11 | BOJ | [11256_사탕](https://www.acmicpc.net/problem/11256) | SILVER5 | 그리디 | [Java](./BOJ/2512/11_11256_사탕.java) | [Review](./BOJ/2512/11_11256_사탕.md) |
 | 25.12.10 | BOJ | [9325_얼마](https://www.acmicpc.net/problem/9325) | BRONZE3 | 수학 | [Java](./BOJ/2512/10_9325_얼마.java) | [Review](./BOJ/2512/10_9325_얼마.md) |
