@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 25.12.15 | BOJ | [1890_점프](https://www.acmicpc.net/problem/1890) | SILVER1 | DP | [Java](./BOJ/2512/15_1890_점프.java) | [Review](./BOJ/2512/15_1890_점프.md) |
 | 25.12.14 | BOJ | [7567_그릇](https://www.acmicpc.net/problem/7567) | BRONZE2 | 구현 | [Java](./BOJ/2512/14_7567_그릇.java) | [Review](./BOJ/2512/14_7567_그릇.md) |
 | 25.12.13 | BOJ | [18310_안테나](https://www.acmicpc.net/problem/18310) | SILVER3 | 수학 | [Java](./BOJ/2512/13_18310_안테나.java) | [Review](./BOJ/2512/13_18310_안테나.md) |
 | 25.12.12 | BOJ | [14654_스테판_쿼리](https://www.acmicpc.net/problem/14654) | SILVER4 | 구현 | [Java](./BOJ/2512/12_14654_스테판_쿼리.java) | [Review](./BOJ/2512/12_14654_스테판_쿼리.md) |
