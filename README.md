@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 25.12.18 | BOJ | [23899_알고리즘_수업-선택_정렬_5](https://www.acmicpc.net/problem/23899) | BRONZE1 | 구현 | [Java](./BOJ/2512/18_23899_알고리즘_수업-선택_정렬_5.java) | [Review](./BOJ/2512/18_23899_알고리즘_수업-선택_정렬_5.md) |
 | 25.12.17 | BOJ | [11094_꿍_가라사대](https://www.acmicpc.net/problem/11094) | BRONZE2 | 구현 | [Java](./BOJ/2512/17_11094_꿍_가라사대.java) | [Review](./BOJ/2512/17_11094_꿍_가라사대.md) |
 | 25.12.16 | BOJ | [1264_모음의_개수](https://www.acmicpc.net/problem/1264) | BRONZE4 | 구현 | [Java](./BOJ/2512/16_1264_모음의_개수.java) | [Review](./BOJ/2512/16_1264_모음의_개수.md) |
 | 25.12.15 | BOJ | [1890_점프](https://www.acmicpc.net/problem/1890) | SILVER1 | DP | [Java](./BOJ/2512/15_1890_점프.java) | [Review](./BOJ/2512/15_1890_점프.md) |
