@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 25.12.19 | BOJ | [18232_텔레포트_정거장](https://www.acmicpc.net/problem/18232) | SILVER2 | 그래프 | [Java](./BOJ/2512/19_18232_텔레포트_정거장.java) | [Review](./BOJ/2512/19_18232_텔레포트_정거장.md) |
 | 25.12.19 | BOJ | [11896_다각형](https://www.acmicpc.net/problem/11896) | SILVER5 | 수학 | [Java](./BOJ/2512/19_11896_다각형.java) | [Review](./BOJ/2512/19_11896_다각형.md) |
 | 25.12.19 | BOJ | [25497_기술_연계마스터_임스](https://www.acmicpc.net/problem/25497) | SILVER5 | 구현 | [Java](./BOJ/2512/19_25497_기술_연계마스터_임스.java) | [Review](./BOJ/2512/19_25497_기술_연계마스터_임스.md) |
 | 25.12.19 | BOJ | [11332_시간초과](https://www.acmicpc.net/problem/11332) | SILVER4 | 구현 | [Java](./BOJ/2512/19_11332_시간초과.java) | [Review](./BOJ/2512/19_11332_시간초과.md) |

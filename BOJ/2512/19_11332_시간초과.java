@@ -6,7 +6,7 @@ import java.io.*;
  * 난이도: SILVER4
  * 유형: 구현
  */
-class Main {
+class Main_11332 {
     static BufferedReader br;
     static BufferedWriter bw;
     static StringTokenizer st;
