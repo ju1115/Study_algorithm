@@ -44,6 +44,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 25.12.19 | BOJ | [11896_다각형](https://www.acmicpc.net/problem/11896) | SILVER5 | 수학 | [Java](./BOJ/2512/19_11896_다각형.java) | [Review](./BOJ/2512/19_11896_다각형.md) |
 | 25.12.19 | BOJ | [25497_기술_연계마스터_임스](https://www.acmicpc.net/problem/25497) | SILVER5 | 구현 | [Java](./BOJ/2512/19_25497_기술_연계마스터_임스.java) | [Review](./BOJ/2512/19_25497_기술_연계마스터_임스.md) |
+| 25.12.19 | BOJ | [11332_시간초과](https://www.acmicpc.net/problem/11332) | SILVER4 | 구현 | [Java](./BOJ/2512/19_11332_시간초과.java) | [Review](./BOJ/2512/19_11332_시간초과.md) |
 | 25.12.19 | BOJ | [2422_한윤정이_이탈리아에_가서_아이스크림을_사먹는데](https://www.acmicpc.net/problem/2422) | SILVER4 | 브루트포스 | [Java](./BOJ/2512/19_2422_한윤정이_이탈리아에_가서_아이스크림을_사먹는데.java) | [Review](./BOJ/2512/19_2422_한윤정이_이탈리아에_가서_아이스크림을_사먹는데.md) |
 | 25.12.19 | BOJ | [15970_화살표_그리기](https://www.acmicpc.net/problem/15970) | SILVER4 | 브루트포스 | [Java](./BOJ/2512/19_15970_화살표_그리기.java) | [Review](./BOJ/2512/19_15970_화살표_그리기.md) |
 | 25.12.18 | BOJ | [23899_알고리즘_수업-선택_정렬_5](https://www.acmicpc.net/problem/23899) | BRONZE1 | 구현 | [Java](./BOJ/2512/18_23899_알고리즘_수업-선택_정렬_5.java) | [Review](./BOJ/2512/18_23899_알고리즘_수업-선택_정렬_5.md) |
