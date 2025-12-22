@@ -43,6 +43,7 @@
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 25.12.22 | BOJ | [2015_수들의_합_4](https://www.acmicpc.net/problem/2015) | GOLD4 | 누적합 | [Java](./BOJ/2512/22_2015_수들의_합_4.java) | [Review](./BOJ/2512/22_2015_수들의_합_4.md) |
+| 25.12.22 | BOJ | [3190_뱀](https://www.acmicpc.net/problem/3190) | GOLD4 | 구현 | [Java](./BOJ/2512/22_3190_뱀.java) | [Review](./BOJ/2512/22_3190_뱀.md) |
 | 25.12.22 | BOJ | [2252_줄_세우기](https://www.acmicpc.net/problem/2252) | GOLD3 | 위상정렬 | [Java](./BOJ/2512/22_2252_줄_세우기.java) | [Review](./BOJ/2512/22_2252_줄_세우기.md) |
 | 25.12.22 | BOJ | [1284_집_주소](https://www.acmicpc.net/problem/1284) | BRONZE2 | 구현 | [Java](./BOJ/2512/22_1284_집_주소.java) | [Review](./BOJ/2512/22_1284_집_주소.md) |
 | 25.12.20 | BOJ | [17362_수학은_체육과목_입니다_2](https://www.acmicpc.net/problem/17362) | BRONZE4 | 수학 | [Java](./BOJ/2512/20_17362_수학은_체육과목_입니다_2.java) | [Review](./BOJ/2512/20_17362_수학은_체육과목_입니다_2.md) |
