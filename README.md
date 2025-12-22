@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 25.12.22 | BOJ | [1284_집_주소](https://www.acmicpc.net/problem/1284) | BRONZE2 | 구현 | [Java](./BOJ/2512/22_1284_집_주소.java) | [Review](./BOJ/2512/22_1284_집_주소.md) |
 | 25.12.20 | BOJ | [17362_수학은_체육과목_입니다_2](https://www.acmicpc.net/problem/17362) | BRONZE4 | 수학 | [Java](./BOJ/2512/20_17362_수학은_체육과목_입니다_2.java) | [Review](./BOJ/2512/20_17362_수학은_체육과목_입니다_2.md) |
 | 25.12.19 | BOJ | [18232_텔레포트_정거장](https://www.acmicpc.net/problem/18232) | SILVER2 | 그래프 | [Java](./BOJ/2512/19_18232_텔레포트_정거장.java) | [Review](./BOJ/2512/19_18232_텔레포트_정거장.md) |
 | 25.12.19 | BOJ | [11896_다각형](https://www.acmicpc.net/problem/11896) | SILVER5 | 수학 | [Java](./BOJ/2512/19_11896_다각형.java) | [Review](./BOJ/2512/19_11896_다각형.md) |
