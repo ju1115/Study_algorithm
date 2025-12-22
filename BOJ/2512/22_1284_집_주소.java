@@ -13,7 +13,7 @@ class Main_1284 {
     static StringBuilder sb = new StringBuilder();
 
     public static void main(String[] args) throws IOException {
-        System.setIn(new FileInputStream("BOJ/2512/22_1284_집_주소.txt"));
+        // System.setIn(new FileInputStream("BOJ/2512/22_1284_집_주소.txt"));
         br = new BufferedReader(new InputStreamReader(System.in));
         bw = new BufferedWriter(new OutputStreamWriter(System.out));
         // Code here
