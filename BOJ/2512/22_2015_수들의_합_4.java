@@ -6,7 +6,7 @@ import java.io.*;
  * 난이도: GOLD4
  * 유형: 누적합
  */
-class Main {
+class Main_2015 {
     static BufferedReader br;
     static BufferedWriter bw;
     static StringTokenizer st;
