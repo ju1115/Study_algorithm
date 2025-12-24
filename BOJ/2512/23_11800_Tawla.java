@@ -10,7 +10,7 @@ import java.util.StringTokenizer;
  * 난이도: BRONZE3
  * 유형: 구현
  */
-class Main {
+class Main_11800 {
     static BufferedReader br;
     static BufferedWriter bw;
     static StringTokenizer st;
