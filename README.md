@@ -44,6 +44,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 25.12.24 | BOJ | [32025_체육은_수학과목_입니다](https://www.acmicpc.net/problem/32025) | BRONZE4 | 수학 | [Java](./BOJ/2512/24_32025_체육은_수학과목_입니다.java) | [Review](./BOJ/2512/24_32025_체육은_수학과목_입니다.md) |
 | 25.12.24 | BOJ | [25400_제자리](https://www.acmicpc.net/problem/25400) | BRONZE1 | 그리디 | [Java](./BOJ/2512/24_25400_제자리.java) | [Review](./BOJ/2512/24_25400_제자리.md) |
+| 25.12.24 | BOJ | [20154_이_구역의_승자는_누구야](https://www.acmicpc.net/problem/20154) | BRONZE1 | 문자열 | [Java](./BOJ/2512/24_20154_이_구역의_승자는_누구야.java) | [Review](./BOJ/2512/24_20154_이_구역의_승자는_누구야.md) |
 | 25.12.23 | BOJ | [11800_Tawla](https://www.acmicpc.net/problem/11800) | BRONZE3 | 구현 | [Java](./BOJ/2512/23_11800_Tawla.java) | [Review](./BOJ/2512/23_11800_Tawla.md) |
 | 25.12.22 | BOJ | [2015_수들의_합_4](https://www.acmicpc.net/problem/2015) | GOLD4 | 누적합 | [Java](./BOJ/2512/22_2015_수들의_합_4.java) | [Review](./BOJ/2512/22_2015_수들의_합_4.md) |
 | 25.12.22 | BOJ | [3190_뱀](https://www.acmicpc.net/problem/3190) | GOLD4 | 구현 | [Java](./BOJ/2512/22_3190_뱀.java) | [Review](./BOJ/2512/22_3190_뱀.md) |
