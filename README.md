@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 25.12.25 | BOJ | [12760_최후의_승자는_누구](https://www.acmicpc.net/problem/12760) | SILVER5 | 구현 | [Java](./BOJ/2512/25_12760_최후의_승자는_누구.java) | [Review](./BOJ/2512/25_12760_최후의_승자는_누구.md) |
 | 25.12.24 | BOJ | [32025_체육은_수학과목_입니다](https://www.acmicpc.net/problem/32025) | BRONZE4 | 수학 | [Java](./BOJ/2512/24_32025_체육은_수학과목_입니다.java) | [Review](./BOJ/2512/24_32025_체육은_수학과목_입니다.md) |
 | 25.12.24 | BOJ | [25400_제자리](https://www.acmicpc.net/problem/25400) | BRONZE1 | 그리디 | [Java](./BOJ/2512/24_25400_제자리.java) | [Review](./BOJ/2512/24_25400_제자리.md) |
 | 25.12.24 | BOJ | [12759_틱_택_토](https://www.acmicpc.net/problem/12759) | SILVER5 | 구현 | [Java](./BOJ/2512/24_12759_틱_택_토.java) | [Review](./BOJ/2512/24_12759_틱_택_토.md) |
