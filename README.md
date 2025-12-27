@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 25.12.27 | BOJ | [1864_문어_숫자](https://www.acmicpc.net/problem/1864) | BRONZE2 | 구현 | [Java](./BOJ/2512/27_1864_문어_숫자.java) | [Review](./BOJ/2512/27_1864_문어_숫자.md) |
 | 25.12.26 | BOJ | [17128_소가_정보섬에_올라온_이유](https://www.acmicpc.net/problem/17128) | SILVER2 | 구현 | [Java](./BOJ/2512/26_17128_소가_정보섬에_올라온_이유.java) | [Review](./BOJ/2512/26_17128_소가_정보섬에_올라온_이유.md) |
 | 25.12.26 | BOJ | [32628_두_스택](https://www.acmicpc.net/problem/32628) | SILVER3 | 그리디 | [Java](./BOJ/2512/26_32628_두_스택.java) | [Review](./BOJ/2512/26_32628_두_스택.md) |
 | 25.12.25 | BOJ | [12760_최후의_승자는_누구](https://www.acmicpc.net/problem/12760) | SILVER5 | 구현 | [Java](./BOJ/2512/25_12760_최후의_승자는_누구.java) | [Review](./BOJ/2512/25_12760_최후의_승자는_누구.md) |
