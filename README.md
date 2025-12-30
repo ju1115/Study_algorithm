@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 25.12.30 | BOJ | [14719_빗물](https://www.acmicpc.net/problem/14719) | GOLD5 | 구현 | [Java](./BOJ/2512/30_14719_빗물.java) | [Review](./BOJ/2512/30_14719_빗물.md) |
 | 25.12.29 | BOJ | [2789_유학_금지](https://www.acmicpc.net/problem/2789) | BRONZE2 | 구현 | [Java](./BOJ/2512/29_2789_유학_금지.java) | [Review](./BOJ/2512/29_2789_유학_금지.md) |
 | 25.12.28 | BOJ | [2037_문자메시지](https://www.acmicpc.net/problem/2037) | BRONZE1 | 구현 | [Java](./BOJ/2512/28_2037_문자메시지.java) | [Review](./BOJ/2512/28_2037_문자메시지.md) |
 | 25.12.27 | BOJ | [1864_문어_숫자](https://www.acmicpc.net/problem/1864) | BRONZE2 | 구현 | [Java](./BOJ/2512/27_1864_문어_숫자.java) | [Review](./BOJ/2512/27_1864_문어_숫자.md) |
