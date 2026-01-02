@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.01.02 | BOJ | [15489_파스칼_삼각형](https://www.acmicpc.net/problem/15489) | SILVER4 | DP | [Java](./BOJ/2601/02_15489_파스칼_삼각형.java) | [Review](./BOJ/2601/02_15489_파스칼_삼각형.md) |
 | 26.01.01 | BOJ | [6609_모기곱셈](https://www.acmicpc.net/problem/6609) | BRONZE2 | 구현 | [Java](./BOJ/2601/01_6609_모기곱셈.java) | [Review](./BOJ/2601/01_6609_모기곱셈.md) |
 | 25.12.31 | BOJ | [11109_괴짜_교수](https://www.acmicpc.net/problem/11109) | BRONZE3 | 구현 | [Java](./BOJ/2512/31_11109_괴짜_교수.java) | [Review](./BOJ/2512/31_11109_괴짜_교수.md) |
 | 25.12.30 | BOJ | [14719_빗물](https://www.acmicpc.net/problem/14719) | GOLD5 | 구현 | [Java](./BOJ/2512/30_14719_빗물.java) | [Review](./BOJ/2512/30_14719_빗물.md) |
