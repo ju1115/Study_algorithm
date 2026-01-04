@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.01.04 | BOJ | [34927_박스_쌓기](https://www.acmicpc.net/problem/34927) | SILVER3 | 그리디 | [Java](./BOJ/2601/04_34927_박스_쌓기.java) | [Review](./BOJ/2601/04_34927_박스_쌓기.md) |
 | 26.01.03 | BOJ | [34033_공금_횡령](https://www.acmicpc.net/problem/34033) | SILVER4 | 자료구조 | [Java](./BOJ/2601/03_34033_공금_횡령.java) | [Review](./BOJ/2601/03_34033_공금_횡령.md) |
 | 26.01.02 | BOJ | [15489_파스칼_삼각형](https://www.acmicpc.net/problem/15489) | SILVER4 | DP | [Java](./BOJ/2601/02_15489_파스칼_삼각형.java) | [Review](./BOJ/2601/02_15489_파스칼_삼각형.md) |
 | 26.01.01 | BOJ | [6609_모기곱셈](https://www.acmicpc.net/problem/6609) | BRONZE2 | 구현 | [Java](./BOJ/2601/01_6609_모기곱셈.java) | [Review](./BOJ/2601/01_6609_모기곱셈.md) |
