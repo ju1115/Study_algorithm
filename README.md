@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.01.05 | BOJ | [2948_2009년](https://www.acmicpc.net/problem/2948) | BRONZE2 | 구현 | [Java](./BOJ/2601/05_2948_2009년.java) | [Review](./BOJ/2601/05_2948_2009년.md) |
 | 26.01.04 | BOJ | [2784_가로_세로_퍼즐](https://www.acmicpc.net/problem/2784) | SILVER2 | 구현 | [Java](./BOJ/2601/04_2784_가로_세로_퍼즐.java) | [Review](./BOJ/2601/04_2784_가로_세로_퍼즐.md) |
 | 26.01.04 | BOJ | [11497_통나무_건너뛰기](https://www.acmicpc.net/problem/11497) | SILVER1 | 그리디 | [Java](./BOJ/2601/04_11497_통나무_건너뛰기.java) | [Review](./BOJ/2601/04_11497_통나무_건너뛰기.md) |
 | 26.01.04 | BOJ | [2823_유턴_싫어](https://www.acmicpc.net/problem/2823) | SILVER2 | 그래프 | [Java](./BOJ/2601/04_2823_유턴_싫어.java) | [Review](./BOJ/2601/04_2823_유턴_싫어.md) |
