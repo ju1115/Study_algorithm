@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.01.08 | BOJ | [11508_2+1_세일](https://www.acmicpc.net/problem/11508) | SILVER4 | 그리디 | [Java](./BOJ/2601/08_11508_2+1_세일.java) | [Review](./BOJ/2601/08_11508_2+1_세일.md) |
 | 26.01.07 | BOJ | [32642_당구_좀_치자_제발](https://www.acmicpc.net/problem/32642) | BRONZE4 | 수학 | [Java](./BOJ/2601/07_32642_당구_좀_치자_제발.java) | [Review](./BOJ/2601/07_32642_당구_좀_치자_제발.md) |
 | 26.01.06 | BOJ | [2966_찍기](https://www.acmicpc.net/problem/2966) | BRONZE2 | 구현 | [Java](./BOJ/2601/06_2966_찍기.java) | [Review](./BOJ/2601/06_2966_찍기.md) |
 | 26.01.05 | BOJ | [2948_2009년](https://www.acmicpc.net/problem/2948) | BRONZE2 | 구현 | [Java](./BOJ/2601/05_2948_2009년.java) | [Review](./BOJ/2601/05_2948_2009년.md) |
