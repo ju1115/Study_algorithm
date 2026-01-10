@@ -42,6 +42,8 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.01.10 | BOJ | [13908_비밀번호](https://www.acmicpc.net/problem/13908) | SILVER2 | 브루트포스 | [Java](./BOJ/2601/10_13908_비밀번호.java) | [Review](./BOJ/2601/10_13908_비밀번호.md) |
+| 26.01.10 | BOJ | [12845_모두의_마블](https://www.acmicpc.net/problem/12845) | SILVER3 | 그리디 | [Java](./BOJ/2601/10_12845_모두의_마블.java) | [Review](./BOJ/2601/10_12845_모두의_마블.md) |
 | 26.01.09 | BOJ | [14469_소가_길을_건너간_이유_3](https://www.acmicpc.net/problem/14469) | SILVER3 | 그리디 | [Java](./BOJ/2601/09_14469_소가_길을_건너간_이유_3.java) | [Review](./BOJ/2601/09_14469_소가_길을_건너간_이유_3.md) |
 | 26.01.08 | BOJ | [11508_2+1_세일](https://www.acmicpc.net/problem/11508) | SILVER4 | 그리디 | [Java](./BOJ/2601/08_11508_2+1_세일.java) | [Review](./BOJ/2601/08_11508_2+1_세일.md) |
 | 26.01.07 | BOJ | [32642_당구_좀_치자_제발](https://www.acmicpc.net/problem/32642) | BRONZE4 | 수학 | [Java](./BOJ/2601/07_32642_당구_좀_치자_제발.java) | [Review](./BOJ/2601/07_32642_당구_좀_치자_제발.md) |
