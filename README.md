@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.01.12 | BOJ | [2705_팰린드롬_파티션](https://www.acmicpc.net/problem/2705) | SILVER1 | DP | [Java](./BOJ/2601/12_2705_팰린드롬_파티션.java) | [Review](./BOJ/2601/12_2705_팰린드롬_파티션.md) |
 | 26.01.11 | BOJ | [25957_단어_우월_효과](https://www.acmicpc.net/problem/25957) | SILVER2 | 문자열 | [Java](./BOJ/2601/11_25957_단어_우월_효과.java) | [Review](./BOJ/2601/11_25957_단어_우월_효과.md) |
 | 26.01.10 | BOJ | [13908_비밀번호](https://www.acmicpc.net/problem/13908) | SILVER2 | 브루트포스 | [Java](./BOJ/2601/10_13908_비밀번호.java) | [Review](./BOJ/2601/10_13908_비밀번호.md) |
 | 26.01.10 | BOJ | [12845_모두의_마블](https://www.acmicpc.net/problem/12845) | SILVER3 | 그리디 | [Java](./BOJ/2601/10_12845_모두의_마블.java) | [Review](./BOJ/2601/10_12845_모두의_마블.md) |
