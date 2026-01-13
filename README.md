@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.01.13 | BOJ | [3154_알람시계](https://www.acmicpc.net/problem/3154) | BRONZE1 | 구현 | [Java](./BOJ/2601/13_3154_알람시계.java) | [Review](./BOJ/2601/13_3154_알람시계.md) |
 | 26.01.12 | BOJ | [2705_팰린드롬_파티션](https://www.acmicpc.net/problem/2705) | SILVER1 | DP | [Java](./BOJ/2601/12_2705_팰린드롬_파티션.java) | [Review](./BOJ/2601/12_2705_팰린드롬_파티션.md) |
 | 26.01.12 | BOJ | [2436_공약수](https://www.acmicpc.net/problem/2436) | GOLD5 | 브루트포스 | [Java](./BOJ/2601/12_2436_공약수.java) | [Review](./BOJ/2601/12_2436_공약수.md) |
 | 26.01.11 | BOJ | [25957_단어_우월_효과](https://www.acmicpc.net/problem/25957) | SILVER2 | 문자열 | [Java](./BOJ/2601/11_25957_단어_우월_효과.java) | [Review](./BOJ/2601/11_25957_단어_우월_효과.md) |
