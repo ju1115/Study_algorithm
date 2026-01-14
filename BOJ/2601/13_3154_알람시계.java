@@ -6,7 +6,7 @@ import java.io.*;
  * 난이도: BRONZE1
  * 유형: 구현
  */
-class Main {
+class Main_3154 {
     static BufferedReader br;
     static BufferedWriter bw;
     static StringTokenizer st;
