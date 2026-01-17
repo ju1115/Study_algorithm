@@ -6,7 +6,7 @@ import java.io.*;
  * 난이도: SILVER4
  * 유형: 그리디
  */
-class Main {
+class Main_2847 {
     static BufferedReader br;
     static BufferedWriter bw;
     static StringTokenizer st;
