@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.01.18 | BOJ | [5557_1학년](https://www.acmicpc.net/problem/5557) | GOLD5 | DP | [Java](./BOJ/2601/18_5557_1학년.java) | [Review](./BOJ/2601/18_5557_1학년.md) |
 | 26.01.18 | BOJ | [1679_숫자놀이](https://www.acmicpc.net/problem/1679) | SILVER1 | 그래프 | [Java](./BOJ/2601/18_1679_숫자놀이.java) | [Review](./BOJ/2601/18_1679_숫자놀이.md) |
 | 26.01.17 | BOJ | [24444_알고리즘_수업-너비_우선_탐색1](https://www.acmicpc.net/problem/24444) | SILVER2 | 그래프 | [Java](./BOJ/2601/17_24444_알고리즘_수업-너비_우선_탐색1.java) | [Review](./BOJ/2601/17_24444_알고리즘_수업-너비_우선_탐색1.md) |
 | 26.01.17 | BOJ | [31860_열심히_일하는_중](https://www.acmicpc.net/problem/31860) | SILVER2 | 구현 | [Java](./BOJ/2601/17_31860_열심히_일하는_중.java) | [Review](./BOJ/2601/17_31860_열심히_일하는_중.md) |
