@@ -33,6 +33,11 @@ class Main_1679 {
             for (int i = 1; i <= idx / 2; i++) {
                 arr[idx] = Math.min(arr[idx], arr[i] + arr[idx - i]);
             }
+            // for (int num : arr) {
+            // if (idx >= num) {
+            // arr[idx] = Math.min(arr[idx], arr[idx - num] + 1);
+            // }
+            // }
             if (arr[idx] > k) {
                 ans = idx;
                 break;
