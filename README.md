@@ -42,6 +42,8 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.01.21 | BOJ | [14645_와이버스_부릉부릉](https://www.acmicpc.net/problem/14645) | BRONZE5 | 구현 | [Java](./BOJ/2601/21_14645_와이버스_부릉부릉.java) | [Review](./BOJ/2601/21_14645_와이버스_부릉부릉.md) |
+| 26.01.21 | BOJ | [33927_나이트_오브_나이츠](https://www.acmicpc.net/problem/33927) | SILVER2 | 백트래킹 | [Java](./BOJ/2601/21_33927_나이트_오브_나이츠.java) | [Review](./BOJ/2601/21_33927_나이트_오브_나이츠.md) |
 | 26.01.20 | BOJ | [4435_중간계_전쟁](https://www.acmicpc.net/problem/4435) | BRONZE3 | 구현 | [Java](./BOJ/2601/20_4435_중간계_전쟁.java) | [Review](./BOJ/2601/20_4435_중간계_전쟁.md) |
 | 26.01.19 | BOJ | [17144_미세먼지_안녕](https://www.acmicpc.net/problem/17144) | GOLD4 | 구현 | [Java](./BOJ/2601/19_17144_미세먼지_안녕.java) | [Review](./BOJ/2601/19_17144_미세먼지_안녕.md) |
 | 26.01.18 | BOJ | [33851_DAG_LCA](https://www.acmicpc.net/problem/33851) | GOLD4 | 그래프 | [Java](./BOJ/2601/18_33851_DAG_LCA.java) | [Review](./BOJ/2601/18_33851_DAG_LCA.md) |
