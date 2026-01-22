@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.01.22 | BOJ | [35164_쿼리와_구간](https://www.acmicpc.net/problem/35164) | SILVER2 | 쿼리 | [Java](./BOJ/2601/22_35164_쿼리와_구간.java) | [Review](./BOJ/2601/22_35164_쿼리와_구간.md) |
 | 26.01.21 | BOJ | [14645_와이버스_부릉부릉](https://www.acmicpc.net/problem/14645) | BRONZE5 | 구현 | [Java](./BOJ/2601/21_14645_와이버스_부릉부릉.java) | [Review](./BOJ/2601/21_14645_와이버스_부릉부릉.md) |
 | 26.01.21 | BOJ | [33927_나이트_오브_나이츠](https://www.acmicpc.net/problem/33927) | SILVER2 | 백트래킹 | [Java](./BOJ/2601/21_33927_나이트_오브_나이츠.java) | [Review](./BOJ/2601/21_33927_나이트_오브_나이츠.md) |
 | 26.01.20 | BOJ | [4435_중간계_전쟁](https://www.acmicpc.net/problem/4435) | BRONZE3 | 구현 | [Java](./BOJ/2601/20_4435_중간계_전쟁.java) | [Review](./BOJ/2601/20_4435_중간계_전쟁.md) |
