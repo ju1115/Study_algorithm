@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.01.23 | BOJ | [28107_회전초밥](https://www.acmicpc.net/problem/28107) | SILVER1 | 자료구조 | [Java](./BOJ/2601/23_28107_회전초밥.java) | [Review](./BOJ/2601/23_28107_회전초밥.md) |
 | 26.01.22 | BOJ | [35164_쿼리와_구간](https://www.acmicpc.net/problem/35164) | SILVER2 | 쿼리 | [Java](./BOJ/2601/22_35164_쿼리와_구간.java) | [Review](./BOJ/2601/22_35164_쿼리와_구간.md) |
 | 26.01.21 | BOJ | [14645_와이버스_부릉부릉](https://www.acmicpc.net/problem/14645) | BRONZE5 | 구현 | [Java](./BOJ/2601/21_14645_와이버스_부릉부릉.java) | [Review](./BOJ/2601/21_14645_와이버스_부릉부릉.md) |
 | 26.01.21 | BOJ | [33927_나이트_오브_나이츠](https://www.acmicpc.net/problem/33927) | SILVER2 | 백트래킹 | [Java](./BOJ/2601/21_33927_나이트_오브_나이츠.java) | [Review](./BOJ/2601/21_33927_나이트_오브_나이츠.md) |
