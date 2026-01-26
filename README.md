@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.01.26 | BOJ | [22116_창영이와_퇴근](https://www.acmicpc.net/problem/22116) | GOLD4 | 그래프 | [Java](./BOJ/2601/26_22116_창영이와_퇴근.java) | [Review](./BOJ/2601/26_22116_창영이와_퇴근.md) |
 | 26.01.25 | BOJ | [12915_대회_개최](https://www.acmicpc.net/problem/12915) | GOLD5 | 그리디 | [Java](./BOJ/2601/25_12915_대회_개최.java) | [Review](./BOJ/2601/25_12915_대회_개최.md) |
 | 26.01.24 | BOJ | [25194_결전의_금요일](https://www.acmicpc.net/problem/25194) | GOLD5 | DP | [Java](./BOJ/2601/24_25194_결전의_금요일.java) | [Review](./BOJ/2601/24_25194_결전의_금요일.md) |
 | 26.01.23 | BOJ | [28107_회전초밥](https://www.acmicpc.net/problem/28107) | SILVER1 | 자료구조 | [Java](./BOJ/2601/23_28107_회전초밥.java) | [Review](./BOJ/2601/23_28107_회전초밥.md) |
