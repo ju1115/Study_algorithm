@@ -42,6 +42,8 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.01.27 | BOJ | [25240_가희와_파일_탐색기2](https://www.acmicpc.net/problem/25240) | GOLD3 | 구현 | [Java](./BOJ/2601/27_25240_가희와_파일_탐색기2.java) | [Review](./BOJ/2601/27_25240_가희와_파일_탐색기2.md) |
+| 26.01.27 | BOJ | [23829_인문예술탐사주간](https://www.acmicpc.net/problem/23829) | GOLD4 | 이분탐색 | [Java](./BOJ/2601/27_23829_인문예술탐사주간.java) | [Review](./BOJ/2601/27_23829_인문예술탐사주간.md) |
 | 26.01.26 | BOJ | [22116_창영이와_퇴근](https://www.acmicpc.net/problem/22116) | GOLD4 | 그래프 | [Java](./BOJ/2601/26_22116_창영이와_퇴근.java) | [Review](./BOJ/2601/26_22116_창영이와_퇴근.md) |
 | 26.01.25 | BOJ | [12915_대회_개최](https://www.acmicpc.net/problem/12915) | GOLD5 | 그리디 | [Java](./BOJ/2601/25_12915_대회_개최.java) | [Review](./BOJ/2601/25_12915_대회_개최.md) |
 | 26.01.24 | BOJ | [25194_결전의_금요일](https://www.acmicpc.net/problem/25194) | GOLD5 | DP | [Java](./BOJ/2601/24_25194_결전의_금요일.java) | [Review](./BOJ/2601/24_25194_결전의_금요일.md) |

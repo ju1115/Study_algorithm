@@ -6,7 +6,7 @@ import java.io.*;
  * 난이도: GOLD4
  * 유형: 그래프
  */
-class Main {
+class Main_22116 {
     static BufferedReader br;
     static BufferedWriter bw;
     static StringTokenizer st;
