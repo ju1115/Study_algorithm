@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.01.31 | BOJ | [5585_거스름돈](https://www.acmicpc.net/problem/5585) | BRONZE2 | 그리디 | [Java](./BOJ/2601/31_5585_거스름돈.java) | [Review](./BOJ/2601/31_5585_거스름돈.md) |
 | 26.01.30 | BOJ | [32187_급식_배식](https://www.acmicpc.net/problem/32187) | GOLD4 | 구현 | [Java](./BOJ/2601/30_32187_급식_배식.java) | [Review](./BOJ/2601/30_32187_급식_배식.md) |
 | 26.01.29 | BOJ | [33993_지정좌석제](https://www.acmicpc.net/problem/33993) | GOLD5 | 구현 | [Java](./BOJ/2601/29_33993_지정좌석제.java) | [Review](./BOJ/2601/29_33993_지정좌석제.md) |
 | 26.01.29 | BOJ | [24370_알고리즘_수업_점근적_표기6](https://www.acmicpc.net/problem/24370) | SILVER6 | 구현 | [Java](./BOJ/2601/29_24370_알고리즘_수업_점근적_표기6.java) | [Review](./BOJ/2601/29_24370_알고리즘_수업_점근적_표기6.md) |
