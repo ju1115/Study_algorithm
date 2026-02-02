@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.02.02 | BOJ | [22964_conv1d](https://www.acmicpc.net/problem/22964) | GOLD3 | 수학 | [Java](./BOJ/2602/02_22964_conv1d.java) | [Review](./BOJ/2602/02_22964_conv1d.md) |
 | 26.02.01 | BOJ | [18234_당근_훔쳐_먹기](https://www.acmicpc.net/problem/18234) | GOLD3 | 그리디 | [Java](./BOJ/2602/01_18234_당근_훔쳐_먹기.java) | [Review](./BOJ/2602/01_18234_당근_훔쳐_먹기.md) |
 | 26.01.31 | BOJ | [5585_거스름돈](https://www.acmicpc.net/problem/5585) | BRONZE2 | 그리디 | [Java](./BOJ/2601/31_5585_거스름돈.java) | [Review](./BOJ/2601/31_5585_거스름돈.md) |
 | 26.01.30 | BOJ | [32187_급식_배식](https://www.acmicpc.net/problem/32187) | GOLD4 | 구현 | [Java](./BOJ/2601/30_32187_급식_배식.java) | [Review](./BOJ/2601/30_32187_급식_배식.md) |
