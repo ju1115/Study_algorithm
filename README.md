@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.02.04 | BOJ | [1834_나머지와_몫이_같은_수](https://www.acmicpc.net/problem/1834) | BRONZE1 | 수학 | [Java](./BOJ/2602/04_1834_나머지와_몫이_같은_수.java) | [Review](./BOJ/2602/04_1834_나머지와_몫이_같은_수.md) |
 | 26.02.03 | BOJ | [1504_특정한_최단_경로](https://www.acmicpc.net/problem/1504) | GOLD4 | 그래프 | [Java](./BOJ/2602/03_1504_특정한_최단_경로.java) | [Review](./BOJ/2602/03_1504_특정한_최단_경로.md) |
 | 26.02.02 | BOJ | [22964_conv1d](https://www.acmicpc.net/problem/22964) | GOLD3 | 수학 | [Java](./BOJ/2602/02_22964_conv1d.java) | [Review](./BOJ/2602/02_22964_conv1d.md) |
 | 26.02.01 | BOJ | [18234_당근_훔쳐_먹기](https://www.acmicpc.net/problem/18234) | GOLD3 | 그리디 | [Java](./BOJ/2602/01_18234_당근_훔쳐_먹기.java) | [Review](./BOJ/2602/01_18234_당근_훔쳐_먹기.md) |
