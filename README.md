@@ -42,6 +42,8 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.02.06 | BOJ | [31563_수열_회전과_쿼리](https://www.acmicpc.net/problem/31563) | SILVER2 | 수학 | [Java](./BOJ/2602/06_31563_수열_회전과_쿼리.java) | [Review](./BOJ/2602/06_31563_수열_회전과_쿼리.md) |
+| 26.02.05 | BOJ | [25966_배찬우는_배열을_좋아해](https://www.acmicpc.net/problem/25966) | SILVER5 | 구현 | [Java](./BOJ/2602/05_25966_배찬우는_배열을_좋아해.java) | [Review](./BOJ/2602/05_25966_배찬우는_배열을_좋아해.md) |
 | 26.02.04 | BOJ | [1834_나머지와_몫이_같은_수](https://www.acmicpc.net/problem/1834) | BRONZE1 | 수학 | [Java](./BOJ/2602/04_1834_나머지와_몫이_같은_수.java) | [Review](./BOJ/2602/04_1834_나머지와_몫이_같은_수.md) |
 | 26.02.03 | BOJ | [1504_특정한_최단_경로](https://www.acmicpc.net/problem/1504) | GOLD4 | 그래프 | [Java](./BOJ/2602/03_1504_특정한_최단_경로.java) | [Review](./BOJ/2602/03_1504_특정한_최단_경로.md) |
 | 26.02.02 | BOJ | [22964_conv1d](https://www.acmicpc.net/problem/22964) | GOLD3 | 수학 | [Java](./BOJ/2602/02_22964_conv1d.java) | [Review](./BOJ/2602/02_22964_conv1d.md) |
