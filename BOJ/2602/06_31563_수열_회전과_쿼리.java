@@ -20,32 +20,37 @@ class Main_31563 {
         st = new StringTokenizer(br.readLine());
         int n = Integer.parseInt(st.nextToken());
         int q = Integer.parseInt(st.nextToken());
+
         st = new StringTokenizer(br.readLine());
         int[] arr = new int[n];
-        int[] map = new int[n];
-        int sum = 0;
+        long[] map = new long[n];
+        long sum = 0;
+
         for (int i = 0; i < n; i++) {
             arr[i] = Integer.parseInt(st.nextToken());
             sum += arr[i];
             map[i] = sum;
         }
+
         int startIdx = 0;
+
         for (int i = 0; i < q; i++) {
             st = new StringTokenizer(br.readLine());
             int k = Integer.parseInt(st.nextToken());
+
             if (k == 1) {
                 int v = Integer.parseInt(st.nextToken());
-                startIdx += n - v;
-                startIdx %= n;
+                startIdx = (startIdx - v + n) % n;
             } else if (k == 2) {
                 int v = Integer.parseInt(st.nextToken());
-                startIdx += v;
-                startIdx %= n;
+                startIdx = (startIdx + v) % n;
             } else if (k == 3) {
                 int a = Integer.parseInt(st.nextToken());
                 int b = Integer.parseInt(st.nextToken());
+
                 int s = (startIdx + a - 2 + n) % n;
                 int e = (startIdx + b - 1) % n;
+
                 if (e > s) {
                     sb.append(map[e] - map[s]).append("\n");
                 } else {
