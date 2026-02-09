@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.02.09 | BOJ | [12996_Acka](https://www.acmicpc.net/problem/12996) | GOLD3 | DP | [Java](./BOJ/2602/09_12996_Acka.java) | [Review](./BOJ/2602/09_12996_Acka.md) |
 | 26.02.08 | BOJ | [9763_마을의_친밀도](https://www.acmicpc.net/problem/9763) | GOLD5 | 브루트포스 | [Java](./BOJ/2602/08_9763_마을의_친밀도.java) | [Review](./BOJ/2602/08_9763_마을의_친밀도.md) |
 | 26.02.07 | BOJ | [16923_다음_다양한_단어](https://www.acmicpc.net/problem/16923) | SILVER2 | 구현 | [Java](./BOJ/2602/07_16923_다음_다양한_단어.java) | [Review](./BOJ/2602/07_16923_다음_다양한_단어.md) |
 | 26.02.06 | BOJ | [31563_수열_회전과_쿼리](https://www.acmicpc.net/problem/31563) | SILVER2 | 수학 | [Java](./BOJ/2602/06_31563_수열_회전과_쿼리.java) | [Review](./BOJ/2602/06_31563_수열_회전과_쿼리.md) |
