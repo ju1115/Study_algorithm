@@ -42,6 +42,10 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.02.12 | BOJ | [5549_행성_탐사](https://www.acmicpc.net/problem/5549) | GOLD5 | 누적합 | [Java](./BOJ/2602/12_5549_행성_탐사.java) | [Review](./BOJ/2602/12_5549_행성_탐사.md) |
+| 26.02.11 | BOJ | [15735_삼각](https://www.acmicpc.net/problem/15735) | SILVER3 | 수학 | [Java](./BOJ/2602/11_15735_삼각.java) | [Review](./BOJ/2602/11_15735_삼각.md) |
+| 26.02.11 | BOJ | [1837_암호제작](https://www.acmicpc.net/problem/1837) | BRONZE3 | 수학 | [Java](./BOJ/2602/11_1837_암호제작.java) | [Review](./BOJ/2602/11_1837_암호제작.md) |
+| 26.02.10 | BOJ | [29810_배신자](https://www.acmicpc.net/problem/29810) | GOLD3 | 그래프 | [Java](./BOJ/2602/10_29810_배신자.java) | [Review](./BOJ/2602/10_29810_배신자.md) |
 | 26.02.09 | BOJ | [12996_Acka](https://www.acmicpc.net/problem/12996) | GOLD3 | DP | [Java](./BOJ/2602/09_12996_Acka.java) | [Review](./BOJ/2602/09_12996_Acka.md) |
 | 26.02.08 | BOJ | [9763_마을의_친밀도](https://www.acmicpc.net/problem/9763) | GOLD5 | 브루트포스 | [Java](./BOJ/2602/08_9763_마을의_친밀도.java) | [Review](./BOJ/2602/08_9763_마을의_친밀도.md) |
 | 26.02.07 | BOJ | [16923_다음_다양한_단어](https://www.acmicpc.net/problem/16923) | SILVER2 | 구현 | [Java](./BOJ/2602/07_16923_다음_다양한_단어.java) | [Review](./BOJ/2602/07_16923_다음_다양한_단어.md) |
