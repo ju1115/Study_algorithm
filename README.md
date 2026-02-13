@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.02.13 | BOJ | [4320_완전_P제곱수](https://www.acmicpc.net/problem/4320) | GOLD5 | 수학 | [Java](./BOJ/2602/13_4320_완전_P제곱수.java) | [Review](./BOJ/2602/13_4320_완전_P제곱수.md) |
 | 26.02.12 | BOJ | [5549_행성_탐사](https://www.acmicpc.net/problem/5549) | GOLD5 | 누적합 | [Java](./BOJ/2602/12_5549_행성_탐사.java) | [Review](./BOJ/2602/12_5549_행성_탐사.md) |
 | 26.02.11 | BOJ | [15735_삼각](https://www.acmicpc.net/problem/15735) | SILVER3 | 수학 | [Java](./BOJ/2602/11_15735_삼각.java) | [Review](./BOJ/2602/11_15735_삼각.md) |
 | 26.02.11 | BOJ | [1837_암호제작](https://www.acmicpc.net/problem/1837) | BRONZE3 | 수학 | [Java](./BOJ/2602/11_1837_암호제작.java) | [Review](./BOJ/2602/11_1837_암호제작.md) |
