@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.02.14 | BOJ | [20916_안녕_2020_안녕_2021](https://www.acmicpc.net/problem/20916) | GOLD5 | 자료구조 | [Java](./BOJ/2602/14_20916_안녕_2020_안녕_2021.java) | [Review](./BOJ/2602/14_20916_안녕_2020_안녕_2021.md) |
 | 26.02.13 | BOJ | [4320_완전_P제곱수](https://www.acmicpc.net/problem/4320) | GOLD5 | 수학 | [Java](./BOJ/2602/13_4320_완전_P제곱수.java) | [Review](./BOJ/2602/13_4320_완전_P제곱수.md) |
 | 26.02.12 | BOJ | [5549_행성_탐사](https://www.acmicpc.net/problem/5549) | GOLD5 | 누적합 | [Java](./BOJ/2602/12_5549_행성_탐사.java) | [Review](./BOJ/2602/12_5549_행성_탐사.md) |
 | 26.02.11 | BOJ | [15735_삼각](https://www.acmicpc.net/problem/15735) | SILVER3 | 수학 | [Java](./BOJ/2602/11_15735_삼각.java) | [Review](./BOJ/2602/11_15735_삼각.md) |
