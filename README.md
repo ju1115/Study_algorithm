@@ -42,6 +42,8 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.02.16 | BOJ | [31477_양갈래 구하기](https://www.acmicpc.net/problem/31477) | GOLD3 | 그래프 | [Java](./BOJ/2602/16_31477_양갈래 구하기.java) | [Review](./BOJ/2602/16_31477_양갈래 구하기.md) |
+| 26.02.15 | BOJ | [23845_마트료시카](https://www.acmicpc.net/problem/23845) | GOLD3 | 그리디 | [Java](./BOJ/2602/15_23845_마트료시카.java) | [Review](./BOJ/2602/15_23845_마트료시카.md) |
 | 26.02.14 | BOJ | [20916_안녕_2020_안녕_2021](https://www.acmicpc.net/problem/20916) | GOLD5 | 자료구조 | [Java](./BOJ/2602/14_20916_안녕_2020_안녕_2021.java) | [Review](./BOJ/2602/14_20916_안녕_2020_안녕_2021.md) |
 | 26.02.13 | BOJ | [4320_완전_P제곱수](https://www.acmicpc.net/problem/4320) | GOLD5 | 수학 | [Java](./BOJ/2602/13_4320_완전_P제곱수.java) | [Review](./BOJ/2602/13_4320_완전_P제곱수.md) |
 | 26.02.12 | BOJ | [5549_행성_탐사](https://www.acmicpc.net/problem/5549) | GOLD5 | 누적합 | [Java](./BOJ/2602/12_5549_행성_탐사.java) | [Review](./BOJ/2602/12_5549_행성_탐사.md) |
