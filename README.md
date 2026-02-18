@@ -42,6 +42,8 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.02.18 | BOJ | [34995_쿠폰_잘_사용하기](https://www.acmicpc.net/problem/34995) | SILVER5 | 문자열 | [Java](./BOJ/2602/18_34995_쿠폰_잘_사용하기.java) | [Review](./BOJ/2602/18_34995_쿠폰_잘_사용하기.md) |
+| 26.02.17 | BOJ | [20128_Parity_Constraint_Shortest_Path](https://www.acmicpc.net/problem/20128) | GOLD2 | 그래프 | [Java](./BOJ/2602/17_20128_Parity_Constraint_Shortest_Path.java) | [Review](./BOJ/2602/17_20128_Parity_Constraint_Shortest_Path.md) |
 | 26.02.16 | BOJ | [31477_양갈래 구하기](https://www.acmicpc.net/problem/31477) | GOLD3 | 그래프 | [Java](./BOJ/2602/16_31477_양갈래 구하기.java) | [Review](./BOJ/2602/16_31477_양갈래 구하기.md) |
 | 26.02.15 | BOJ | [23845_마트료시카](https://www.acmicpc.net/problem/23845) | GOLD3 | 그리디 | [Java](./BOJ/2602/15_23845_마트료시카.java) | [Review](./BOJ/2602/15_23845_마트료시카.md) |
 | 26.02.14 | BOJ | [20916_안녕_2020_안녕_2021](https://www.acmicpc.net/problem/20916) | GOLD5 | 자료구조 | [Java](./BOJ/2602/14_20916_안녕_2020_안녕_2021.java) | [Review](./BOJ/2602/14_20916_안녕_2020_안녕_2021.md) |
