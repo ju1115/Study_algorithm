@@ -42,6 +42,8 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.02.20 | BOJ | [9081_단어_맞추기](https://www.acmicpc.net/problem/9081) | SILVER1 | 구현 | [Java](./BOJ/2602/20_9081_단어_맞추기.java) | [Review](./BOJ/2602/20_9081_단어_맞추기.md) |
+| 26.02.19 | BOJ | [11566_킥](https://www.acmicpc.net/problem/11566) | SILVER3 | 브루트포스 | [Java](./BOJ/2602/19_11566_킥.java) | [Review](./BOJ/2602/19_11566_킥.md) |
 | 26.02.18 | BOJ | [34995_쿠폰_잘_사용하기](https://www.acmicpc.net/problem/34995) | SILVER5 | 문자열 | [Java](./BOJ/2602/18_34995_쿠폰_잘_사용하기.java) | [Review](./BOJ/2602/18_34995_쿠폰_잘_사용하기.md) |
 | 26.02.17 | BOJ | [20128_Parity_Constraint_Shortest_Path](https://www.acmicpc.net/problem/20128) | GOLD2 | 그래프 | [Java](./BOJ/2602/17_20128_Parity_Constraint_Shortest_Path.java) | [Review](./BOJ/2602/17_20128_Parity_Constraint_Shortest_Path.md) |
 | 26.02.16 | BOJ | [31477_양갈래 구하기](https://www.acmicpc.net/problem/31477) | GOLD3 | 그래프 | [Java](./BOJ/2602/16_31477_양갈래 구하기.java) | [Review](./BOJ/2602/16_31477_양갈래 구하기.md) |
