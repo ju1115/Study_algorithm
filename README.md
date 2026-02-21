@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.02.21 | BOJ | [11277_2SAT1](https://www.acmicpc.net/problem/11277) | SILVER1 | 브루트포스 | [Java](./BOJ/2602/21_11277_2SAT1.java) | [Review](./BOJ/2602/21_11277_2SAT1.md) |
 | 26.02.20 | BOJ | [9081_단어_맞추기](https://www.acmicpc.net/problem/9081) | SILVER1 | 구현 | [Java](./BOJ/2602/20_9081_단어_맞추기.java) | [Review](./BOJ/2602/20_9081_단어_맞추기.md) |
 | 26.02.19 | BOJ | [11566_킥](https://www.acmicpc.net/problem/11566) | SILVER3 | 브루트포스 | [Java](./BOJ/2602/19_11566_킥.java) | [Review](./BOJ/2602/19_11566_킥.md) |
 | 26.02.18 | BOJ | [34995_쿠폰_잘_사용하기](https://www.acmicpc.net/problem/34995) | SILVER5 | 문자열 | [Java](./BOJ/2602/18_34995_쿠폰_잘_사용하기.java) | [Review](./BOJ/2602/18_34995_쿠폰_잘_사용하기.md) |
