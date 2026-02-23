@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.02.23 | BOJ | [32179_이분탐색의_흔적](https://www.acmicpc.net/problem/32179) | GOLD3 | 수학 | [Java](./BOJ/2602/23_32179_이분탐색의_흔적.java) | [Review](./BOJ/2602/23_32179_이분탐색의_흔적.md) |
 | 26.02.22 | BOJ | [17140_이차원_배열과_연산](https://www.acmicpc.net/problem/17140) | GOLD4 | 구현 | [Java](./BOJ/2602/22_17140_이차원_배열과_연산.java) | [Review](./BOJ/2602/22_17140_이차원_배열과_연산.md) |
 | 26.02.21 | BOJ | [11277_2SAT1](https://www.acmicpc.net/problem/11277) | SILVER1 | 브루트포스 | [Java](./BOJ/2602/21_11277_2SAT1.java) | [Review](./BOJ/2602/21_11277_2SAT1.md) |
 | 26.02.20 | BOJ | [9081_단어_맞추기](https://www.acmicpc.net/problem/9081) | SILVER1 | 구현 | [Java](./BOJ/2602/20_9081_단어_맞추기.java) | [Review](./BOJ/2602/20_9081_단어_맞추기.md) |
