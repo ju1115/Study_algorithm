@@ -42,6 +42,8 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.02.26 | BOJ | [35295_소수가_아닌_수_4](https://www.acmicpc.net/problem/35295) | SILVER4 | 수학 | [Java](./BOJ/2602/26_35295_소수가_아닌_수_4.java) | [Review](./BOJ/2602/26_35295_소수가_아닌_수_4.md) |
+| 26.02.25 | BOJ | [24573_Good_Fours_and_Good_Fives](https://www.acmicpc.net/problem/24573) | BRONZE1 | 브루트포스 | [Java](./BOJ/2602/25_24573_Good_Fours_and_Good_Fives.java) | [Review](./BOJ/2602/25_24573_Good_Fours_and_Good_Fives.md) |
 | 26.02.24 | BOJ | [10551_STROJOPIS](https://www.acmicpc.net/problem/10551) | BRONZE2 | 문자열 | [Java](./BOJ/2602/24_10551_STROJOPIS.java) | [Review](./BOJ/2602/24_10551_STROJOPIS.md) |
 | 26.02.23 | BOJ | [32179_이분탐색의_흔적](https://www.acmicpc.net/problem/32179) | GOLD3 | 수학 | [Java](./BOJ/2602/23_32179_이분탐색의_흔적.java) | [Review](./BOJ/2602/23_32179_이분탐색의_흔적.md) |
 | 26.02.22 | BOJ | [17140_이차원_배열과_연산](https://www.acmicpc.net/problem/17140) | GOLD4 | 구현 | [Java](./BOJ/2602/22_17140_이차원_배열과_연산.java) | [Review](./BOJ/2602/22_17140_이차원_배열과_연산.md) |
