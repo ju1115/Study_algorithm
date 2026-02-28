@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.02.27 | BOJ | [33233_Efficient_Grading](https://www.acmicpc.net/problem/33233) | SILVER1 | 수학 | [Java](./BOJ/2602/27_33233_Efficient_Grading.java) | [Review](./BOJ/2602/27_33233_Efficient_Grading.md) |
 | 26.02.26 | BOJ | [35295_소수가_아닌_수_4](https://www.acmicpc.net/problem/35295) | SILVER4 | 수학 | [Java](./BOJ/2602/26_35295_소수가_아닌_수_4.java) | [Review](./BOJ/2602/26_35295_소수가_아닌_수_4.md) |
 | 26.02.25 | BOJ | [24573_Good_Fours_and_Good_Fives](https://www.acmicpc.net/problem/24573) | BRONZE1 | 브루트포스 | [Java](./BOJ/2602/25_24573_Good_Fours_and_Good_Fives.java) | [Review](./BOJ/2602/25_24573_Good_Fours_and_Good_Fives.md) |
 | 26.02.24 | BOJ | [10551_STROJOPIS](https://www.acmicpc.net/problem/10551) | BRONZE2 | 문자열 | [Java](./BOJ/2602/24_10551_STROJOPIS.java) | [Review](./BOJ/2602/24_10551_STROJOPIS.md) |
