@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.03.01 | BOJ | [13249_공의_충돌](https://www.acmicpc.net/problem/13249) | GOLD4 | 수학 | [Java](./BOJ/2603/01_13249_공의_충돌.java) | [Review](./BOJ/2603/01_13249_공의_충돌.md) |
 | 26.02.28 | BOJ | [21750_Два_коня](https://www.acmicpc.net/problem/21750) | GOLD5 | 구현 | [Java](./BOJ/2602/28_21750_Два_коня.java) | [Review](./BOJ/2602/28_21750_Два_коня.md) |
 | 26.02.27 | BOJ | [33233_Efficient_Grading](https://www.acmicpc.net/problem/33233) | SILVER1 | 수학, 브루트포스, 그리디 | [Java](./BOJ/2602/27_33233_Efficient_Grading.java) | [Review](./BOJ/2602/27_33233_Efficient_Grading.md) |
 | 26.02.26 | BOJ | [35295_소수가_아닌_수_4](https://www.acmicpc.net/problem/35295) | SILVER4 | 수학 | [Java](./BOJ/2602/26_35295_소수가_아닌_수_4.java) | [Review](./BOJ/2602/26_35295_소수가_아닌_수_4.md) |
