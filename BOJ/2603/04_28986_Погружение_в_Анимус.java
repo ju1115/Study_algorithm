@@ -24,6 +24,7 @@ class Main_28986 {
         long min = Math.max(1, k - n);
         long max = (k - 1) / 2;
         long answer = Math.max(0L, max - min + 1L);
+        sb.append(answer);
         bw.write(sb.toString());
         bw.flush();
         bw.close();
