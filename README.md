@@ -43,6 +43,7 @@
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 26.03.05 | BOJ | [15642_피보나치_수_7](https://www.acmicpc.net/problem/15642) | SILVER4 | 수학 | [Java](./BOJ/2603/05_15642_피보나치_수_7.java) | [Review](./BOJ/2603/05_15642_피보나치_수_7.md) |
+| 26.03.05 | BOJ | [23414_Removing_Pairs](https://www.acmicpc.net/problem/23414) | SILVER1 | 문자열 | [Java](./BOJ/2603/05_23414_Removing_Pairs.java) | [Review](./BOJ/2603/05_23414_Removing_Pairs.md) |
 | 26.03.04 | BOJ | [28986_Погружение_в_Анимус](https://www.acmicpc.net/problem/28986) | BRONZE2 | 수학 | [Java](./BOJ/2603/04_28986_Погружение_в_Анимус.java) | [Review](./BOJ/2603/04_28986_Погружение_в_Анимус.md) |
 | 26.03.03 | BOJ | [15006_Detour](https://www.acmicpc.net/problem/15006) | GOLD2 | 그래프 | [Java](./BOJ/2603/03_15006_Detour.java) | [Review](./BOJ/2603/03_15006_Detour.md) |
 | 26.03.02 | BOJ | [9010_Möbius_Strip](https://www.acmicpc.net/problem/9010) | GOLD3 | 수학 | [Java](./BOJ/2603/02_9010_Möbius_Strip.java) | [Review](./BOJ/2603/02_9010_Möbius_Strip.md) |
