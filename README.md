@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.03.07 | BOJ | [16150_Gun_Control](https://www.acmicpc.net/problem/16150) | GOLD3 | dp | [Java](./BOJ/2603/07_16150_Gun_Control.java) | [Review](./BOJ/2603/07_16150_Gun_Control.md) |
 | 26.03.06 | BOJ | [2313_보석_구매하기](https://www.acmicpc.net/problem/2313) | GOLD5 | DP | [Java](./BOJ/2603/06_2313_보석_구매하기.java) | [Review](./BOJ/2603/06_2313_보석_구매하기.md) |
 | 26.03.05 | BOJ | [15642_피보나치_수_7](https://www.acmicpc.net/problem/15642) | SILVER4 | 수학 | [Java](./BOJ/2603/05_15642_피보나치_수_7.java) | [Review](./BOJ/2603/05_15642_피보나치_수_7.md) |
 | 26.03.05 | BOJ | [23414_Removing_Pairs](https://www.acmicpc.net/problem/23414) | SILVER1 | 문자열 | [Java](./BOJ/2603/05_23414_Removing_Pairs.java) | [Review](./BOJ/2603/05_23414_Removing_Pairs.md) |
