@@ -42,6 +42,8 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.03.10 | BOJ | [23333_Digion](https://www.acmicpc.net/problem/23333) | GOLD1 | 문자열 | [Java](./BOJ/2603/10_23333_Digion.java) | [Review](./BOJ/2603/10_23333_Digion.md) |
+| 26.03.09 | BOJ | [6750_Rotating_letters](https://www.acmicpc.net/problem/6750) | BRONZE3 | 문자열 | [Java](./BOJ/2603/09_6750_Rotating_letters.java) | [Review](./BOJ/2603/09_6750_Rotating_letters.md) |
 | 26.03.08 | BOJ | [30826_그_긴_수](https://www.acmicpc.net/problem/30826) | GOLD2 | 수학 | [Java](./BOJ/2603/08_30826_그_긴_수.java) | [Review](./BOJ/2603/08_30826_그_긴_수.md) |
 | 26.03.07 | BOJ | [16150_Gun_Control](https://www.acmicpc.net/problem/16150) | GOLD3 | dp | [Java](./BOJ/2603/07_16150_Gun_Control.java) | [Review](./BOJ/2603/07_16150_Gun_Control.md) |
 | 26.03.06 | BOJ | [2313_보석_구매하기](https://www.acmicpc.net/problem/2313) | GOLD5 | DP | [Java](./BOJ/2603/06_2313_보석_구매하기.java) | [Review](./BOJ/2603/06_2313_보석_구매하기.md) |
