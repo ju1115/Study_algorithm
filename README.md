@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.03.17 | BOJ | [12983_Set_Definition](https://www.acmicpc.net/problem/12983) | GOLD1 | 수학 | [Java](./BOJ/2603/17_12983_Set_Definition.java) | [Review](./BOJ/2603/17_12983_Set_Definition.md) |
 | 26.03.16 | BOJ | [29665_Награды](https://www.acmicpc.net/problem/29665) | GOLD3 | 수학 | [Java](./BOJ/2603/16_29665_Награды.java) | [Review](./BOJ/2603/16_29665_Награды.md) |
 | 26.03.15 | BOJ | [4143_Bridges_and_Tunnels](https://www.acmicpc.net/problem/4143) | GOLD3 | 자료구조 | [Java](./BOJ/2603/15_4143_Bridges_and_Tunnels.java) | [Review](./BOJ/2603/15_4143_Bridges_and_Tunnels.md) |
 | 26.03.14 | BOJ | [16234_인구_이동](https://www.acmicpc.net/problem/16234) | GOLD4 | 구현 | [Java](./BOJ/2603/14_16234_인구_이동.java) | [Review](./BOJ/2603/14_16234_인구_이동.md) |
