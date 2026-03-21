@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.03.20 | BOJ | [20336_Haughty_Cuisine](https://www.acmicpc.net/problem/20336) | BRONZE4 | 문자열 | [Java](./BOJ/2603/20_20336_Haughty_Cuisine.java) | [Review](./BOJ/2603/20_20336_Haughty_Cuisine.md) |
 | 26.03.19 | BOJ | [9935_문자열_폭발](https://www.acmicpc.net/problem/9935) | GOLD4 | 문자열 | [Java](./BOJ/2603/19_9935_문자열_폭발.java) | [Review](./BOJ/2603/19_9935_문자열_폭발.md) |
 | 26.03.18 | BOJ | [5639_이진_검색_트리](https://www.acmicpc.net/problem/5639) | GOLD4 | 그래프 | [Java](./BOJ/2603/18_5639_이진_검색_트리.java) | [Review](./BOJ/2603/18_5639_이진_검색_트리.md) |
 | 26.03.17 | BOJ | [12983_Set_Definition](https://www.acmicpc.net/problem/12983) | GOLD1 | 수학 | [Java](./BOJ/2603/17_12983_Set_Definition.java) | [Review](./BOJ/2603/17_12983_Set_Definition.md) |
