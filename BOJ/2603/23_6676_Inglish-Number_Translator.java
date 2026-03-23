@@ -11,7 +11,7 @@ import java.util.StringTokenizer;
  * 난이도: SILVER1
  * 유형: 문자열
  */
-class Main {
+class Main_6676 {
     static BufferedReader br;
     static BufferedWriter bw;
     static StringTokenizer st;
