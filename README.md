@@ -43,6 +43,7 @@
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 26.03.26 | BOJ | [16236_아기_상어](https://www.acmicpc.net/problem/16236) | GOLD3 | 구현 | [Java](./BOJ/2603/26_16236_아기_상어.java) | [Review](./BOJ/2603/26_16236_아기_상어.md) |
+| 26.03.26 | BOJ | [2166_다각형의_면적](https://www.acmicpc.net/problem/2166) | GOLD5 | 수학 | [Java](./BOJ/2603/26_2166_다각형의_면적.java) | [Review](./BOJ/2603/26_2166_다각형의_면적.md) |
 | 26.03.24 | BOJ | [10830_행렬_제곱](https://www.acmicpc.net/problem/10830) | GOLD4 | 재귀 | [Java](./BOJ/2603/24_10830_행렬_제곱.java) | [Review](./BOJ/2603/24_10830_행렬_제곱.md) |
 | 26.03.24 | BOJ | [2638_치즈](https://www.acmicpc.net/problem/2638) | GOLD3 | 구현 | [Java](./BOJ/2603/24_2638_치즈.java) | [Review](./BOJ/2603/24_2638_치즈.md) |
 | 26.03.23 | BOJ | [6676_Inglish-Number_Translator](https://www.acmicpc.net/problem/6676) | SILVER1 | 문자열 | [Java](./BOJ/2603/23_6676_Inglish-Number_Translator.java) | [Review](./BOJ/2603/23_6676_Inglish-Number_Translator.md) |
