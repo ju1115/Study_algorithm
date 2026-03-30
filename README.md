@@ -42,6 +42,8 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.03.29 | BOJ | [1197_최소_스패닝_트리](https://www.acmicpc.net/problem/1197) | GOLD4 | 그래프 | [Java](./BOJ/2603/29_1197_최소_스패닝_트리.java) | [Review](./BOJ/2603/29_1197_최소_스패닝_트리.md) |
+| 26.03.28 | BOJ | [1106_호텔](https://www.acmicpc.net/problem/1106) | GOLD4 | DP | [Java](./BOJ/2603/28_1106_호텔.java) | [Review](./BOJ/2603/28_1106_호텔.md) |
 | 26.03.27 | BOJ | [15681_트리와_쿼리](https://www.acmicpc.net/problem/15681) | GOLD5 | 그래프 | [Java](./BOJ/2603/27_15681_트리와_쿼리.java) | [Review](./BOJ/2603/27_15681_트리와_쿼리.md) |
 | 26.03.26 | BOJ | [16236_아기_상어](https://www.acmicpc.net/problem/16236) | GOLD3 | 구현 | [Java](./BOJ/2603/26_16236_아기_상어.java) | [Review](./BOJ/2603/26_16236_아기_상어.md) |
 | 26.03.26 | BOJ | [2166_다각형의_면적](https://www.acmicpc.net/problem/2166) | GOLD5 | 수학 | [Java](./BOJ/2603/26_2166_다각형의_면적.java) | [Review](./BOJ/2603/26_2166_다각형의_면적.md) |
