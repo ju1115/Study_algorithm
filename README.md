@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.03.30 | BOJ | [1647_도시_분할_계획](https://www.acmicpc.net/problem/1647) | GOLD4 | 그래프 | [Java](./BOJ/2603/30_1647_도시_분할_계획.java) | [Review](./BOJ/2603/30_1647_도시_분할_계획.md) |
 | 26.03.29 | BOJ | [1197_최소_스패닝_트리](https://www.acmicpc.net/problem/1197) | GOLD4 | 그래프 | [Java](./BOJ/2603/29_1197_최소_스패닝_트리.java) | [Review](./BOJ/2603/29_1197_최소_스패닝_트리.md) |
 | 26.03.28 | BOJ | [1106_호텔](https://www.acmicpc.net/problem/1106) | GOLD4 | DP | [Java](./BOJ/2603/28_1106_호텔.java) | [Review](./BOJ/2603/28_1106_호텔.md) |
 | 26.03.27 | BOJ | [15681_트리와_쿼리](https://www.acmicpc.net/problem/15681) | GOLD5 | 그래프 | [Java](./BOJ/2603/27_15681_트리와_쿼리.java) | [Review](./BOJ/2603/27_15681_트리와_쿼리.md) |
