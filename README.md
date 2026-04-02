@@ -42,6 +42,8 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.04.02 | BOJ | [10942_팰린드롬?](https://www.acmicpc.net/problem/10942) | GOLD4 | DP | [Java](./BOJ/2604/02_10942_팰린드롬?.java) | [Review](./BOJ/2604/02_10942_팰린드롬?.md) |
+| 26.03.31 | BOJ | [2239_스도쿠](https://www.acmicpc.net/problem/2239) | GOLD4 | 구현 | [Java](./BOJ/2603/31_2239_스도쿠.java) | [Review](./BOJ/2603/31_2239_스도쿠.md) |
 | 26.03.30 | BOJ | [1647_도시_분할_계획](https://www.acmicpc.net/problem/1647) | GOLD4 | 그래프 | [Java](./BOJ/2603/30_1647_도시_분할_계획.java) | [Review](./BOJ/2603/30_1647_도시_분할_계획.md) |
 | 26.03.29 | BOJ | [1197_최소_스패닝_트리](https://www.acmicpc.net/problem/1197) | GOLD4 | 그래프 | [Java](./BOJ/2603/29_1197_최소_스패닝_트리.java) | [Review](./BOJ/2603/29_1197_최소_스패닝_트리.md) |
 | 26.03.28 | BOJ | [1106_호텔](https://www.acmicpc.net/problem/1106) | GOLD4 | DP | [Java](./BOJ/2603/28_1106_호텔.java) | [Review](./BOJ/2603/28_1106_호텔.md) |
