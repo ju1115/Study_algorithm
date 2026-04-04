@@ -4,7 +4,7 @@ import java.io.*;
 /**
  * 문제: BOJ 20040 사이클_게임
  * 난이도: gold4
- * 유형: MST
+ * 유형: UnionFind
  */
 class Main_20040 {
     static BufferedReader br;
