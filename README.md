@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.04.06 | BOJ | [1005_ACM_Craft](https://www.acmicpc.net/problem/1005) | GOLD3 | 위상정렬 | [Java](./BOJ/2604/06_1005_ACM_Craft.java) | [Review](./BOJ/2604/06_1005_ACM_Craft.md) |
 | 26.04.05 | BOJ | [27172_수_나누기_게임](https://www.acmicpc.net/problem/27172) | GOLD4 | 수학 | [Java](./BOJ/2604/05_27172_수_나누기_게임.java) | [Review](./BOJ/2604/05_27172_수_나누기_게임.md) |
 | 26.04.04 | BOJ | [20040_사이클_게임](https://www.acmicpc.net/problem/20040) | gold4 | UnionFind | [Java](./BOJ/2604/04_20040_사이클_게임.java) | [Review](./BOJ/2604/04_20040_사이클_게임.md) |
 | 26.04.03 | BOJ | [17210_문문문](https://www.acmicpc.net/problem/17210) | BRONZE3 | 그리디 | [Java](./BOJ/2604/03_17210_문문문.java) | [Review](./BOJ/2604/03_17210_문문문.md) |
