@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.04.08 | BOJ | [14725_개미굴](https://www.acmicpc.net/problem/14725) | GOLD3 | 문자열 | [Java](./BOJ/2604/08_14725_개미굴.java) | [Review](./BOJ/2604/08_14725_개미굴.md) |
 | 26.04.07 | BOJ | [2533_사회망_서비스(SNS)](https://www.acmicpc.net/problem/2533) | GOLD3 | 그래프 | [Java](./BOJ/2604/07_2533_사회망_서비스(SNS).java) | [Review](./BOJ/2604/07_2533_사회망_서비스(SNS).md) |
 | 26.04.06 | BOJ | [1005_ACM_Craft](https://www.acmicpc.net/problem/1005) | GOLD3 | 위상정렬 | [Java](./BOJ/2604/06_1005_ACM_Craft.java) | [Review](./BOJ/2604/06_1005_ACM_Craft.md) |
 | 26.04.05 | BOJ | [27172_수_나누기_게임](https://www.acmicpc.net/problem/27172) | GOLD4 | 수학 | [Java](./BOJ/2604/05_27172_수_나누기_게임.java) | [Review](./BOJ/2604/05_27172_수_나누기_게임.md) |
