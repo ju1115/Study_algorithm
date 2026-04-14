@@ -42,6 +42,7 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.04.14 | BOJ | [16724_피리_부는_사나이](https://www.acmicpc.net/problem/16724) | GOLD3 | 구현 | [Java](./BOJ/2604/14_16724_피리_부는_사나이.java) |
 | 26.04.13 | BOJ | [11049_행렬_곱셈_순서](https://www.acmicpc.net/problem/11049) | GOLD3 | DP | [Java](./BOJ/2604/13_11049_행렬_곱셈_순서.java) |
 | 26.04.12 | BOJ | [9252_LCS_2](https://www.acmicpc.net/problem/9252) | GOLD3 | 문자열 | [Java](./BOJ/2604/12_9252_LCS_2.java) |
 | 26.04.11 | BOJ | [2623_음악프로그램](https://www.acmicpc.net/problem/2623) | GOLD3 | 그래프 | [Java](./BOJ/2604/11_2623_음악프로그램.java) |
