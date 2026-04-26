@@ -42,6 +42,8 @@
 
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
+| 26.04.26 | Programmers | [389478_택배_상자_꺼내기](https://school.programmers.co.kr/learn/courses/30/lessons/389478) | Lv_1 | 구현현 | [Java](./Programmers/2604/26_389478_택배_상자_꺼내기.java) |
+| 26.04.26 | Programmers | [468370_중요한_단어를_스포_방지](https://school.programmers.co.kr/learn/courses/30/lessons/468370) | Lv_1 | 문자열 | [Java](./Programmers/2604/26_468370_중요한_단어를_스포_방지.java) |
 | 26.04.20 | Programmers | [468371_노란불_신호등](https://school.programmers.co.kr/learn/courses/30/lessons/468371) | Lv_1 | 브루트포스 | [Java](./Programmers/2604/20_468371_노란불_신호등.java) |
 | 26.04.14 | BOJ | [16724_피리_부는_사나이](https://www.acmicpc.net/problem/16724) | GOLD3 | 구현 | [Java](./BOJ/2604/14_16724_피리_부는_사나이.java) |
 | 26.04.13 | BOJ | [11049_행렬_곱셈_순서](https://www.acmicpc.net/problem/11049) | GOLD3 | DP | [Java](./BOJ/2604/13_11049_행렬_곱셈_순서.java) |
