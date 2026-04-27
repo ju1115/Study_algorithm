@@ -43,6 +43,7 @@
 | 날짜 | 사이트 | 문제 | 난이도 | 유형 | 풀이 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 26.04.27 | Programmers | [388351_유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351) | Lv_1 | 구현 | [Java](./Programmers/2604/27_388351_유연근무제.java) |
+| 26.04.27 | Programmers | [340213_동영상_재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213) | Lv_1 | 구현 | [Java](./Programmers/2604/27_340213_동영상_재생기.java) |
 | 26.04.26 | Programmers | [389478_택배_상자_꺼내기](https://school.programmers.co.kr/learn/courses/30/lessons/389478) | Lv_1 | 구현현 | [Java](./Programmers/2604/26_389478_택배_상자_꺼내기.java) |
 | 26.04.26 | Programmers | [468370_중요한_단어를_스포_방지](https://school.programmers.co.kr/learn/courses/30/lessons/468370) | Lv_1 | 문자열 | [Java](./Programmers/2604/26_468370_중요한_단어를_스포_방지.java) |
 | 26.04.20 | Programmers | [468371_노란불_신호등](https://school.programmers.co.kr/learn/courses/30/lessons/468371) | Lv_1 | 브루트포스 | [Java](./Programmers/2604/20_468371_노란불_신호등.java) |
